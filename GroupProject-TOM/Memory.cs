@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace GroupProject_TOM
 {
-	class ResponseFinder
+	class Memory
 	{
-		public ResponseFinder()
-		{
-			//read in response_data.json
-		}
-
-		public void GetResponse()
+		public Memory()
 		{
 
 		}

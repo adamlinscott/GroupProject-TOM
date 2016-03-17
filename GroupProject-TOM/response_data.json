@@ -3,8 +3,8 @@
 	"payload": {
 		"category0": {
 			"emotion0": {
-				"input0": [
-					"response",
+				"can my laptop run rust": [
+					"We recommend these settings for Garrys Mod:\nOS: Windows 7/8/8.1/10 \nProcessor: 2.5 GHz Processor or better \nMemory: 8 GB RAM \nGraphics: 1GB dedicated VRAM or better  \nStorage: 10 GB available space",
 					"response",
 					"response"
 				],
