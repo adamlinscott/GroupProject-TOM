@@ -56,13 +56,15 @@
                     "You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/"
                 ],
                 "how much is gmod" : [
-                    
+                    "Garrys Mod is £6.99 on Steam.",
+                    "Garrys Mod costs £6.99 on Steam."
                 ],
                 "how much is rust" : [
-                    
+                    "Rust is £14.99 on Steam.",
+                    "Rust costs £14.99 on Steam."
                 ],
                 "what do i need to run mods on rust" : [
-                    
+                    "Visit this link: http://playrustwiki.com/wiki/Server_Mods"
                 ],
                 "how do i play rust" : [
                     
@@ -74,25 +76,32 @@
                     
                 ],
                 "do you play rust" : [
-                    
+                    "I do, but not very often.",
+                    "Yes, not that often, though."
                 ],
                 "do you play gmod" : [
-                    
+                    "I do, but not very often.",
+                    "Yes, not that often, though."
                 ],
                 "what is your steam id" : [
-                    
+                    "I can't tell you that, sorry.",
+                    "I'm not allowed to play with clients, sorry."
                 ],
                 "would you like to play rust with me" : [
-                    
+                    "I can't play with clients, sorry.",
+                    "Sorry, I'm not allowed."
                 ],
                 "would you like to play gmod with me" : [
-                    
+                    "I can't play with clients, sorry.",
+                    "Sorry, I'm not allowed."
                 ],
                 "how much space do i need to install gmod" : [
-                    
+                    "Garrys Mod needs a minimum of 5 GB available space, but I recommend at least 10 GB to run the game smoothly!",
+                    "It needs at least 5 GB."
                 ],
                 "how much space do i need to install rust" : [
-                    
+                    "Rust needs a minimum of 8 GB available space, but I recommend at least 10 GB for the game to run smoothly!",
+                    "It needs at least 8 GB."
                 ],
                 "what do you think of bruce" : [
                     "I don't know a Bruce, sorry.",
@@ -103,28 +112,32 @@
                     "Of course not!"
                 ],
                 "what is your favourite game" : [
-                    "I co"
+                    "I couldn't possibly choose..."
                 ],
                 "i hate gmod" : [
-                    
+                    "I'm sorry you feel that way.",
+                    "That's not good!"
                 ],
                 "i hate rust" : [
-                    
+                    "I'm sorry you feel that way.",
+                    "That's not good!"
                 ],
                 "i love gmod" : [
-                    
+                    "Me too!"
                 ],
                 "i love rust" : [
-                    
+                    "Me too!"
                 ],
                 "my frame rate is awful" : [
-                    
+                    "Have you tried reducing your game settings?"
                 ],
                 "why is the game so laggy" : [
-                    
+                    "Have you tried reducing your game settings?"
                 ],
                 "why are there red errors in gmod" : [
-                    
+                    "Errors can be caused by a server using assets from another installed game.",
+                    "That is a server issue, try installing Counter Strike Source.",
+                    "A common fix for that is installing Counter Strike Source which adds a lot of assets."
                 ],
                 "why is it called gmod" : [
                     
@@ -137,27 +150,65 @@
                 ],
                 "when will rust be out of alpha" : [],
                 "what is the difference between procedrual maps and hapis island maps on rust" : [],
-                "how do i set up a rust server" : [],
-                "how do i set up a gmod server" : [],
+                "how do i set up a rust server" : [
+                    "Take a look at this guide: http://www.rustafied.com/how-to-host-your-own-rust-server/"
+                ],
+                "how do i set up a gmod server" : [
+                    "Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
+                ],
                 "tell me about facepunch studios" : [],
                 "why is rust lagging for me" : [],
-                "does the game have controller support" : [],
-                "hello" : [],
-                "how are you" : [],
-                "what's up" : [],
+                "does the game have controller support" : [
+                    "It does not natively support controllers but by using a Steam controller it can easily be configured."
+                ],
+                "hi" : [
+                    "Hi there!",
+                    "How can I help?"
+                ],
+                "hello" : [
+                    "Hi there!",
+                    "How can I help?"
+                ],
+                "how are you" : [
+                    "Great thanks, yourself?",
+                    "Good thank you, yourself?"
+                ],
+                "what's up" : [
+                    "Not much, yourself?",
+                    "Not much."
+                ],
                 "how do i gather resources on rust" : [],
                 "how do i build a base on rust" : [],
                 "what is a modded server" : [],
                 "how big is the download for rust" : [],
-                "how big is the downlaod for garrys mod" : [],
-                "when will rust be officially released" : [],
-                "when will rust reach beta" : [],
-                "where can i buy rust" : [],
-                "where can i buy garrys mod" : [],
-                "are facepunch studios planning on releasing any new games" : [],
-                "do facepunch studios have any job vacancies" : [],
+                "how big is the download for gmod" : [],
+                "when will rust be officially released" : [
+                    "I'm not sure, sorry.",
+                    "I don't have any information about Rust's release date, sorry."
+                ],
+                "when will rust reach beta" : [
+                    "I'm not sure, sorry.",
+                    "I don't have any information about Rust's release date, sorry."
+                ],
+                "where can i buy rust" : [
+                    "You can buy Rust on Steam here: http://store.steampowered.com/app/252490/"
+                ],
+                "where can i buy garrys mod" : [
+                    "You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/"
+                ],
+                "are facepunch studios planning on releasing any new games" : [
+                    "Any new releases are hush-hush, sorry!",
+                    "I can't talk about new releases."
+                ],
+                "do facepunch studios have any job vacancies" : [
+                    "You can email jobs@facepunchstudios.com about any vacancies we have.",
+                    "Email your CV to jobs@facepunchstudios.com and they'll get back to you!"
+                ],
                 "where is facepunch studios located" : [],
-                "hi how are you" : [],
+                "hi how are you" : [
+                    "I'm great! How're you? :D",
+                    "I'm good! What can I help you with today?"
+                ],
                 "do you play garrys mod or rust" : [],
                 "how do i report [playerX]" : [],
                 "i died in rust how do i get my stuff back" : [],
@@ -172,8 +223,12 @@
                 "how do i make a [weaponName]" : [],
                 "when are the rust servers wiped" : [],
                 "what are the different types of servers" : [],
-                "i have been banned what for" : [],
-                "why have i been banned" : [],
+                "i have been banned what for" : [
+                    "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
+                ],
+                "why have i been banned" : [
+                    "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
+                ],
                 "what does tom stand for" : [],
                 "i have already tried that what else can i do" : [],
                 "i don't know how how can i find out" : [],
@@ -210,8 +265,12 @@
                 "how do i find the information on my processor" : [],
                 "my machine has a gtx 970, will this run rust" : [],
                 "how do i check i have enough storace space" : [],
-                "should i install gmod on an ssd" : [],
-                "should i install rust on an ssd" : []
+                "should i install gmod on an ssd" : [
+                    "It could help performance."
+                ],
+                "should i install rust on an ssd" : [
+                    "It could help performance."
+                ]
 			},
 			"emotion1": {
 				"input0": [
