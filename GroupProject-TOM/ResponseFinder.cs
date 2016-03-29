@@ -28,7 +28,11 @@ namespace GroupProject_TOM
 		{
 			string json = System.IO.File.ReadAllText(@"D:\Documents\GitHub\GroupProject-TOM\GroupProject-TOM\response_data.json");
 
+			var responses = JsonParser.Deserialize(json);
+
 			Console.WriteLine(json);
+
+			Console.WriteLine(responses.response);
 		}
 	}
 }
