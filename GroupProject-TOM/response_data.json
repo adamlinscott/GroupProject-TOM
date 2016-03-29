@@ -1,5 +1,4 @@
-﻿@@ -0,0 +1,579 @@
-{
+﻿{
 	"response": "ok",
 	"payload": {
 		"category0": {
@@ -19,562 +18,562 @@
 					"Yes, Rust is slightly more hardware demanding than Garrys Mod so you shouldn't have any problems",
                                         "You should be able to if you have enough space to install it."
 				],
-		                "my pc runs gmod can it run rust": [
-		                	"Rust requires slightly higher specifications than Garrys Mod: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
-		                ],
-		                "what is the minimum spec for rust": [
-		                    	"Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
-		                ],
-		                "what is the minimum spec for gmod": [
-		                    	"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible"
-		                ],
-		                "what do i need to run rust on highest settings": [
-		                    	"We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space."
-		                ],
-		                "what do i need to run gmod on highest settings": [
-		                    	"We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space."
-		                ],
-		                "should i upgrade to an amd or nvidia graphics card to play" : [
-		                    	"I prefer NVIDIA but that's just me.",
-		                	"Go with NVIDIA! I think Rust actually works better on their cards."
-		                ],
-		                "my machine meets the minimum specifications but not the recommended would rust run well enough" : [
-		                    	"Rust should run fine on the minimum specifications, but the graphics quality may be limited."
-		                ],
-		                "my machine meets the minimum specifications but not the recommended would gmod run well enough" : [
-		                    	"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
-		                ],
-		                "can i play rust on the minimum specifications" : [
-		                    	"Rust should run fine on the minimum specifications, but the graphics quality may be limited."
-		                ],
-		                "can i play gmod on the minimum specifications" : [
-		                    	"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
-		                ],
-		                "how do i install rust" : [
-		                	"You can install Rust by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/252490/"
-		                ],
-		                "how do i install gmod" : [
-		                    	"You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/"
-		                ],
-		                "how much is gmod" : [
-		                    	"Garrys Mod is £6.99 on Steam.",
-		                	"Garrys Mod costs £6.99 on Steam."
-		                ],
-		                "how much is rust" : [
-		                    	"Rust is £14.99 on Steam.",
-		                    	"Rust costs £14.99 on Steam."
-		                ],
-		                "what do i need to run mods on rust" : [
-		                    	"Visit this link: http://playrustwiki.com/wiki/Server_Mods"
-		                ],
-		                "how do i play rust" : [
-		                    	"Do you have the steam client installed on your PC?"
-		                    	"Can you see the game in your Library tab?"
-		                ],
-		                "how do i play gmod" : [
-		                    	"Do you have the steam client installed on your PC?"
-		                    	"Can you see the game in your Library tab?"
-		                ],
-		                "what is the most popular gamemode" : [
+		        "my pc runs gmod can it run rust": [
+		            "Rust requires slightly higher specifications than Garrys Mod: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
+		        ],
+		        "what is the minimum spec for rust": [
+		                "Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
+		        ],
+		        "what is the minimum spec for gmod": [
+		                "Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible"
+		        ],
+		        "what do i need to run rust on highest settings": [
+		                "We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space."
+		        ],
+		        "what do i need to run gmod on highest settings": [
+		                "We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space."
+		        ],
+		        "should i upgrade to an amd or nvidia graphics card to play" : [
+		                "I prefer NVIDIA but that's just me.",
+		            "Go with NVIDIA! I think Rust actually works better on their cards."
+		        ],
+		        "my machine meets the minimum specifications but not the recommended would rust run well enough" : [
+		                "Rust should run fine on the minimum specifications, but the graphics quality may be limited."
+		        ],
+		        "my machine meets the minimum specifications but not the recommended would gmod run well enough" : [
+		                "Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
+		        ],
+		        "can i play rust on the minimum specifications" : [
+		                "Rust should run fine on the minimum specifications, but the graphics quality may be limited."
+		        ],
+		        "can i play gmod on the minimum specifications" : [
+		                "Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
+		        ],
+		        "how do i install rust" : [
+		            "You can install Rust by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/252490/"
+		        ],
+		        "how do i install gmod" : [
+		                "You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/"
+		        ],
+		        "how much is gmod" : [
+		                "Garrys Mod is £6.99 on Steam.",
+		            "Garrys Mod costs £6.99 on Steam."
+		        ],
+		        "how much is rust" : [
+		                "Rust is £14.99 on Steam.",
+		                "Rust costs £14.99 on Steam."
+		        ],
+		        "what do i need to run mods on rust" : [
+		                "Visit this link: http://playrustwiki.com/wiki/Server_Mods"
+		        ],
+		        "how do i play rust" : [
+		                "Do you have the steam client installed on your PC?",
+		                "Can you see the game in your Library tab?"
+		        ],
+		        "how do i play gmod" : [
+		                "Do you have the steam client installed on your PC?",
+		                "Can you see the game in your Library tab?"
+		        ],
+		        "what is the most popular gamemode" : [
 		                    
-		                ],
-		                "do you play rust" : [
-		                    "I do play Rust, but not very often.",
-		                    "Yes, not that often, though.",
-		                    "Absolutely, but not much recently",
-		                    "I do play Rust, but not very often, do you?",
-		                    "Yes, not that often, though, do you?",
-		                    "Absolutely, but not much recently. Do you?",
-		                    "I've played Rust now and again."
-		                ],
-		                "do you play gmod" : [
-		                    "I do play Gmod, but not very often.",
-		                    "Yes, not that often, though.",
-		                    "Absolutely, but not much recently",
-		                    "I do play Gmod, but not very often, do you?",
-		                    "Yes, not that often, though, do you?",
-		                    "Absolutely, but not much recently. Do you?",
-		                    "I've played Gmod now and again."
-		                ],
-		                "what is your steam id" : [
-		                    "I can't tell you that, sorry.",
-		                    "I'm not allowed to play with clients, sorry.",
-		                    "Sorry, it's against my work policy to play with clients...",
-		                    "Sorry, I can't tell you.",
-		                    "I can't play with clients, it's against my work policy. :("
-		                ],
-		                "would you like to play rust with me" : [
-		                    "I can't play with clients, sorry.",
-		                    "Sorry, I'm not allowed."
-		                ],
-		                "would you like to play gmod with me" : [
-		                    "I can't play with clients, sorry.",
-		                    "Sorry, I'm not allowed."
-		                ],
-		                "how much space do i need to install gmod" : [
-		                    "Garrys Mod needs a minimum of 5 GB available space, but I recommend at least 10 GB to run the game smoothly!",
-		                    "It needs at least 5 GB."
-		                ],
-		                "how much space do i need to install rust" : [
-		                    "Rust needs a minimum of 8 GB available space, but I recommend at least 10 GB for the game to run smoothly!",
-		                    "It needs at least 8 GB."
-		                ],
-		                "what do you think of bruce" : [
-		                    "I don't know a Bruce, sorry.",
-		                    "Who is Bruce?",
-		                    "Bruce?",
-		                    "I don't know who that is.",
-		                    "Sorry?"
-		                ],
-		                "are you an ai" : [
-		                    "I'm as human as can be!",
-		                    "Of course not!",
-		                    "How about I ask you that question?",
-		                    "haha, how can help you today?",
-		                    "Nope!",
-		                    "No...my name is Tom... :("
-		                ],
-		                "what is your favourite game" : [
-		                    "I couldn't possibly choose...",
-		                    "...haha that's a difficult one. What's yours?",
-		                    "Why don't you tell me yours?",
-		                    "Sorry, I don't really have a favourite! D:",
-		                    "I can't decide!"
-		                ],
-		                "i hate gmod" : [
-		                    "I'm sorry you feel that way.",
-		                    "That's not good!"
-		                ],
-		                "i hate rust" : [
-		                    "I'm sorry you feel that way.",
-		                    "That's not good!"
-		                ],
-		                "i love gmod" : [
-		                    "Me too!",
-		                    "Haha, that's great to hear!",
-		                    "Haha, well Gmod is awesome! :)",
-		                    "That's great! Do you need help with anything?"
-		                ],
-		                "i love rust" : [
-		                    "Me too!",
-		                    "Haha, that's great to hear!",
-		                    "Haha, well Rust is awesome! :)",
-		                    "That's great! Do you need help with anything?"
-		                ],
-		                "my frame rate is awful" : [
-		                    "Have you tried reducing your game settings?"
-		                ],
-		                "why is the game so laggy" : [
-		                    "Have you tried reducing your game settings?"
-		                ],
-		                "why are there red errors in gmod" : [
-		                    "Errors can be caused by a server using assets from another installed game.",
-		                    "That is a server issue, try installing Counter Strike Source.",
-		                    "A common fix for that is installing Counter Strike Source which adds a lot of assets."
-		                ],
-		                "why is it called gmod" : [
-		                    "Gmod was made originally by Garry Newman as a mod for half life 2"
-		                ],
-		                "how do i build in rust" : [
+		        ],
+		        "do you play rust" : [
+		            "I do play Rust, but not very often.",
+		            "Yes, not that often, though.",
+		            "Absolutely, but not much recently",
+		            "I do play Rust, but not very often, do you?",
+		            "Yes, not that often, though, do you?",
+		            "Absolutely, but not much recently. Do you?",
+		            "I've played Rust now and again."
+		        ],
+		        "do you play gmod" : [
+		            "I do play Gmod, but not very often.",
+		            "Yes, not that often, though.",
+		            "Absolutely, but not much recently",
+		            "I do play Gmod, but not very often, do you?",
+		            "Yes, not that often, though, do you?",
+		            "Absolutely, but not much recently. Do you?",
+		            "I've played Gmod now and again."
+		        ],
+		        "what is your steam id" : [
+		            "I can't tell you that, sorry.",
+		            "I'm not allowed to play with clients, sorry.",
+		            "Sorry, it's against my work policy to play with clients...",
+		            "Sorry, I can't tell you.",
+		            "I can't play with clients, it's against my work policy. :("
+		        ],
+		        "would you like to play rust with me" : [
+		            "I can't play with clients, sorry.",
+		            "Sorry, I'm not allowed."
+		        ],
+		        "would you like to play gmod with me" : [
+		            "I can't play with clients, sorry.",
+		            "Sorry, I'm not allowed."
+		        ],
+		        "how much space do i need to install gmod" : [
+		            "Garrys Mod needs a minimum of 5 GB available space, but I recommend at least 10 GB to run the game smoothly!",
+		            "It needs at least 5 GB."
+		        ],
+		        "how much space do i need to install rust" : [
+		            "Rust needs a minimum of 8 GB available space, but I recommend at least 10 GB for the game to run smoothly!",
+		            "It needs at least 8 GB."
+		        ],
+		        "what do you think of bruce" : [
+		            "I don't know a Bruce, sorry.",
+		            "Who is Bruce?",
+		            "Bruce?",
+		            "I don't know who that is.",
+		            "Sorry?"
+		        ],
+		        "are you an ai" : [
+		            "I'm as human as can be!",
+		            "Of course not!",
+		            "How about I ask you that question?",
+		            "haha, how can help you today?",
+		            "Nope!",
+		            "No...my name is Tom... :("
+		        ],
+		        "what is your favourite game" : [
+		            "I couldn't possibly choose...",
+		            "...haha that's a difficult one. What's yours?",
+		            "Why don't you tell me yours?",
+		            "Sorry, I don't really have a favourite! D:",
+		            "I can't decide!"
+		        ],
+		        "i hate gmod" : [
+		            "I'm sorry you feel that way.",
+		            "That's not good!"
+		        ],
+		        "i hate rust" : [
+		            "I'm sorry you feel that way.",
+		            "That's not good!"
+		        ],
+		        "i love gmod" : [
+		            "Me too!",
+		            "Haha, that's great to hear!",
+		            "Haha, well Gmod is awesome! :)",
+		            "That's great! Do you need help with anything?"
+		        ],
+		        "i love rust" : [
+		            "Me too!",
+		            "Haha, that's great to hear!",
+		            "Haha, well Rust is awesome! :)",
+		            "That's great! Do you need help with anything?"
+		        ],
+		        "my frame rate is awful" : [
+		            "Have you tried reducing your game settings?"
+		        ],
+		        "why is the game so laggy" : [
+		            "Have you tried reducing your game settings?"
+		        ],
+		        "why are there red errors in gmod" : [
+		            "Errors can be caused by a server using assets from another installed game.",
+		            "That is a server issue, try installing Counter Strike Source.",
+		            "A common fix for that is installing Counter Strike Source which adds a lot of assets."
+		        ],
+		        "why is it called gmod" : [
+		            "Gmod was made originally by Garry Newman as a mod for half life 2"
+		        ],
+		        "how do i build in rust" : [
 		                    
-		                ],
-		                "what is the objective in rust" : [
-		                    "Rust is a permadeath MMO, when you die, you'll lose everything on you - if someone raids your base, they will destroy it. The aim, is to survive. Think you have what it takes [USERS NAME]?"
-		                ],
-		                "when will rust be out of alpha" : [
-		               	    "Rust will be put in alpha when the community stops suggesting features to be added, haha!"
-		                ],
-		                "what is the difference between procedural maps and hapis island maps on rust" : [
+		        ],
+		        "what is the objective in rust" : [
+		            "Rust is a permadeath MMO, when you die, you'll lose everything on you - if someone raids your base, they will destroy it. The aim, is to survive. Think you have what it takes [USERS NAME]?"
+		        ],
+		        "when will rust be out of alpha" : [
+		            "Rust will be put in alpha when the community stops suggesting features to be added, haha!"
+		        ],
+		        "what is the difference between procedural maps and hapis island maps on rust" : [
 		                	
-		                ],
-		                "how do i set up a rust server" : [
-		                    "Take a look at this guide: http://www.rustafied.com/how-to-host-your-own-rust-server/"
-		                    "Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
-		                ],
-		                "how do i set up a gmod server" : [
-		                    "Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
-		                ],
-		                "tell me about facepunch studios" : [
+		        ],
+		        "how do i set up a rust server" : [
+		            "Take a look at this guide: http://www.rustafied.com/how-to-host-your-own-rust-server/",
+		            "Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
+		        ],
+		        "how do i set up a gmod server" : [
+		            "Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
+		        ],
+		        "tell me about facepunch studios" : [
 		                	
-		                ],
-		                "why is rust lagging for me" : [
-		                    "I'm sorry to hear that. Have you checked the game requirements to see if your pc meets them?"	
-		                ],
-		                "does the game have controller support" : [
-		                    "It does not natively support controllers but by using a Steam controller it can easily be configured."
-		                ],
-		                "hi" : [
-		                    "Hi there!",
-		                    "How can I help?",
-		                    "Hello!",
-		                    "Yo!"
-		                ],
-		                "hello" : [
-		                    "Hi there!",
-		                    "How can I help?",
-		                    "Hello!",
-		                    "Yo!"
-		                ],
-		                "how are you" : [
-		                    "Great thanks, yourself?",
-		                    "Good thank you, yourself?"
-		                ],
-		                "what's up" : [
-		                    "Not much, yourself?",
-		                    "Not much.",
-		                    "Not much! So what can I do for you today?"
-		                ],
-		                "how do i gather resources on rust" : [
-		                    "To efficiently gather resources in Rust, you will need to get some basic tools - a stone axe and a stone pick. To craft these, use the stone you spawned with to hit tree's and rocks for resources, and when you have enough, open the build guide using TAB and build your tools."
-		                ],
-		                "what is a modded server" : [
+		        ],
+		        "why is rust lagging for me" : [
+		            "I'm sorry to hear that. Have you checked the game requirements to see if your pc meets them?"	
+		        ],
+		        "does the game have controller support" : [
+		            "It does not natively support controllers but by using a Steam controller it can easily be configured."
+		        ],
+		        "hi" : [
+		            "Hi there!",
+		            "How can I help?",
+		            "Hello!",
+		            "Yo!"
+		        ],
+		        "hello" : [
+		            "Hi there!",
+		            "How can I help?",
+		            "Hello!",
+		            "Yo!"
+		        ],
+		        "how are you" : [
+		            "Great thanks, yourself?",
+		            "Good thank you, yourself?"
+		        ],
+		        "what's up" : [
+		            "Not much, yourself?",
+		            "Not much.",
+		            "Not much! So what can I do for you today?"
+		        ],
+		        "how do i gather resources on rust" : [
+		            "To efficiently gather resources in Rust, you will need to get some basic tools - a stone axe and a stone pick. To craft these, use the stone you spawned with to hit tree's and rocks for resources, and when you have enough, open the build guide using TAB and build your tools."
+		        ],
+		        "what is a modded server" : [
 		                	
-		                ],
-		                "how big is the download for rust" : [
-		                	"8 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)"
-		                	"8 GB!"
-		                ],
-		                "how big is the download for gmod" : [
-		                	"5 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)"
-		                	"5 GB!"
-		                ],
-		                "when will rust be officially released" : [
-		                    "I'm not sure, sorry.",
-		                    "I don't have any information about Rust's release date, sorry."
-		                    "We currently do not have a set-in-stone release date for Rust as the nature of the game is evolving with the playerbase."
-		                ],
-		                "when will rust reach beta" : [
-		                    "I'm not sure, sorry.",
-		                    "I don't have any information about Rust's release date, sorry."
-		                ],
-		                "where can i buy rust" : [
-		                    "You can buy Rust on Steam here: http://store.steampowered.com/app/252490/"
-		                ],
-		                "where can i buy garrys mod" : [
-		                    "You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/"
-		                ],
-		                "are facepunch studios planning on releasing any new games" : [
-		                    "Any new releases are hush-hush, sorry!",
-		                    "I can't talk about new releases."
-		                    "I can't discuss that with a client, sorry."
-		                ],
-		                "do facepunch studios have any job vacancies" : [
-		                    "You can email jobs@facepunchstudios.com about any vacancies we have.",
-		                    "Email your CV to jobs@facepunchstudios.com and they'll get back to you!"
-		                ],
-		                "where is facepunch studios located" : [
+		        ],
+		        "how big is the download for rust" : [
+		            "8 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
+		            "8 GB!"
+		        ],
+		        "how big is the download for gmod" : [
+		            "5 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
+		            "5 GB!"
+		        ],
+		        "when will rust be officially released" : [
+		            "I'm not sure, sorry.",
+		            "I don't have any information about Rust's release date, sorry.",
+		            "We currently do not have a set-in-stone release date for Rust as the nature of the game is evolving with the playerbase."
+		        ],
+		        "when will rust reach beta" : [
+		            "I'm not sure, sorry.",
+		            "I don't have any information about Rust's release date, sorry."
+		        ],
+		        "where can i buy rust" : [
+		            "You can buy Rust on Steam here: http://store.steampowered.com/app/252490/"
+		        ],
+		        "where can i buy garrys mod" : [
+		            "You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/"
+		        ],
+		        "are facepunch studios planning on releasing any new games" : [
+		            "Any new releases are hush-hush, sorry!",
+		            "I can't talk about new releases.",
+		            "I can't discuss that with a client, sorry."
+		        ],
+		        "do facepunch studios have any job vacancies" : [
+		            "You can email jobs@facepunchstudios.com about any vacancies we have.",
+		            "Email your CV to jobs@facepunchstudios.com and they'll get back to you!"
+		        ],
+		        "where is facepunch studios located" : [
 		                	
-		                ],
-		                "hi how are you" : [
-		                    "I'm great! How're you? :D",
-		                    "I'm good! What can I help you with today?",
-		                    "I'm good! How can I help you today?"
-		                ],
-		                "do you play garrys mod or rust" : [
-		                    "I play both Rust and Garys Mod in my spare time :)"
-		                ],
-		                "how do i report [playerX]" : [
+		        ],
+		        "hi how are you" : [
+		            "I'm great! How're you? :D",
+		            "I'm good! What can I help you with today?",
+		            "I'm good! How can I help you today?"
+		        ],
+		        "do you play garrys mod or rust" : [
+		            "I play both Rust and Garys Mod in my spare time :)"
+		        ],
+		        "how do i report [playerX]" : [
 		                	
-		                ],
-		                "i died in rust how do i get my stuff back" : [
-		                    "I'm sorry to hear that! When you die in Rust, each death is a permadeath. Although you will keep unlocked blueprints, all items will be dropped at the point you died for your attacker to loot."
-		                ],
-		                "how does the blueprint system work in rust" : [
-		                    "In Rust, you must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200  - with the 1200 blueprints providing the rarer weapons and items in the game."
-		                ],
-		                "what is a radtown" : [
+		        ],
+		        "i died in rust how do i get my stuff back" : [
+		            "I'm sorry to hear that! When you die in Rust, each death is a permadeath. Although you will keep unlocked blueprints, all items will be dropped at the point you died for your attacker to loot."
+		        ],
+		        "how does the blueprint system work in rust" : [
+		            "In Rust, you must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200  - with the 1200 blueprints providing the rarer weapons and items in the game."
+		        ],
+		        "what is a radtown" : [
 		                	
-		                ],
-		                "how do i avoid radiation poisoning" : [
+		        ],
+		        "how do i avoid radiation poisoning" : [
 		                	
-		                ],
-		                "how do i get wood" : [
-		                    "To get wood, cut tree's using either your stone or a crafted hatchet."
-		                ],
-		                "how do i get stone" : [
-		                    "To get stone, mine rocks using either your stone or a crafted pick."
-		                ],
-		                "how do i get sulphur" : [ 
-		                    "To gather sulphur, mine the rocks that look like they have a greenish layer over them. You can also collect sulphur in chunks of 50 from the ground.... or steal it from other plays ;)"
-		                ],
-		                "how do i get metal fragments" : [
+		        ],
+		        "how do i get wood" : [
+		            "To get wood, cut tree's using either your stone or a crafted hatchet."
+		        ],
+		        "how do i get stone" : [
+		            "To get stone, mine rocks using either your stone or a crafted pick."
+		        ],
+		        "how do i get sulphur" : [ 
+		            "To gather sulphur, mine the rocks that look like they have a greenish layer over them. You can also collect sulphur in chunks of 50 from the ground.... or steal it from other plays ;)"
+		        ],
+		        "how do i get metal fragments" : [
 		                	
-		                ],
-		                "how do i get high quality metal" : [
+		        ],
+		        "how do i get high quality metal" : [
 		                	
-		                ],
-		                "how do i make a [weaponName]" : [
+		        ],
+		        "how do i make a [weaponName]" : [
 		                	
-		                ],
-		                "when are the rust servers wiped" : [
-		                    "The servers on Rust are wiped on the first Thursday of each month to make room for new players to build bases."
-		                ],
-		                "what are the different types of servers" : [],
-		                "i have been banned what for" : [
-		                    "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
-		                ],
-		                "why have i been banned" : [
-		                    "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
-		                ],
-		                "what does tom stand for" : [ 
-		       		    "TOM is our Technical Operations Machine! But he's not a machine, he's a real boy! Honest...",
-		                ],
-		                "i have already tried that what else can i do" : [
+		        ],
+		        "when are the rust servers wiped" : [
+		            "The servers on Rust are wiped on the first Thursday of each month to make room for new players to build bases."
+		        ],
+		        "what are the different types of servers" : [],
+		        "i have been banned what for" : [
+		            "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
+		        ],
+		        "why have i been banned" : [
+		            "If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair."
+		        ],
+		        "what does tom stand for" : [ 
+		       		"TOM is our Technical Operations Machine! But he's not a machine, he's a real boy! Honest..."
+		        ],
+		        "i have already tried that what else can i do" : [
 		                	
-		                ],
-		                "i don't know how how can i find out" : [
+		        ],
+		        "i don't know how how can i find out" : [
 		                	
-		                ],
-		                "i want to make a complaint" : [
+		        ],
+		        "i want to make a complaint" : [
 		                	
-		                ],
-		                "i want a refund on [game]" : [
-		                	"Unfortunately I am here to give technical support, if you require assistance on billing/refunds then you will need to email our billing department."
-		                ],
-		                "do you play the games yourself" : [
+		        ],
+		        "i want a refund on [game]" : [
+		            "Unfortunately I am here to give technical support, if you require assistance on billing/refunds then you will need to email our billing department."
+		        ],
+		        "do you play the games yourself" : [
 		                	
-		                ],
-		                "do you find the games hard yourself" : [
+		        ],
+		        "do you find the games hard yourself" : [
 		                	
-		                ],
-		                "why does my game keep crashing" : [
-		                	"I'm sorry to hear that. Have you checked the game requirements to see if your pc meets them?"
-		                ],
-		                "how much experience do you have" : [
+		        ],
+		        "why does my game keep crashing" : [
+		            "I'm sorry to hear that. Have you checked the game requirements to see if your pc meets them?"
+		        ],
+		        "how much experience do you have" : [
 		                	
-		                ],
-		                "have you completed [game]" : [
+		        ],
+		        "have you completed [game]" : [
 		                	
-		                ],
-		                "can you help my friend with his problems" : [
+		        ],
+		        "can you help my friend with his problems" : [
 		                	
-		                ],
-		                "how do i build a base in rust" : [
-		                	"Firstly, to build a base in Rust you're going to need to craft a hammer and stock up on some wood and stone. Equip your building plan, select the item you want to build, and click!"
-		                ],
-		                "how do i make a hammer" : [
-		                	"Make a hammer using wood in the crafting inventory."
-		                ],
-		                "how do i obtain a building plan" : [
-		                	"You can make a building plan using 1 paper, crafted using wood, in the crafting menu."
-		                ],
-		                "how do i access the [crafting/blueprints] menu" : [
-		                	"Press TAB to access the crafting/blueprints menu."
-		                ],
-		                "how do i raid someone" : [
-		                	"To raid someone, [USERS NAME], you're going to need some tools to break down walls, and possibly some explosives to save time - Good luck!"
-		                ],
-		                "what is the best weapon" : [
-		                	"That's all down to opinion! My favourite weapon is the Marksmans Rifle :) what's yours? 
-		                "],
-		                "whats the objective of gmod" : [
-		                	"Garry's Mod is a sandbox game - the objective is what you make it. Or you can play user created content!"
-		                ],
-		                "how do i get [props/items] in gmod" : [
-		                	"The props/items you have in Garry's mod are completely dependant on the games you own. Pro tip - Buy the Orange Box bundle, you'll get all you need!"
-		                ],
-		                "what is the spawn menu" : [
-		                	"The spawn menu allows you to spawn any props you own into your sandbox world. Exciting, huh?"
-		                ],
-		                "how does gmod know what games i have installed to get props from" : [
-		                	"Garry's mod will scan your steam games folder and add any items it finds from compatible games."
-		                ],
-		                "i have [game] but my props aren't appearing in gmod how can i find them" : [
-		                	"You can change the folder search perimeters to add any compatible games that are not stored in your steam games folder :) It's under Tools/Browse in the Spawn menu."
-		                ],
-		                "how do i open the spawn menu" : [
-		                	"The pre-set key for launching the spawn menu is Q."
-		                ],
-		                "what does the physics gun do" : [
-		                	"The physics gun allows you to pick up and move items within the game. Throw them, rotate, its up you you, its all physics baby! :D"
-		                ],
-		                "how do i rotate things i'm holding with the physics gun" : [
-		                	"You can rotate props you are holding using the WASD keys."
-		                ],
-		                "how do i snap a [prop/item] to position" : [
-		                	"Shift + E will snap a prop into position being held by the physics gun."
-		                ],
-		                "how do i freeze an object in mid-air" : [
-		                	"While holding the item with the physics gun, click the right mouse button to suspend - you can use this to make items levitate!"
-		                ],
-		                "i can't get my ragdoll to look realistic" : [
-		                	"Making a ragdoll look realistic will take time and patience - lots of little adjustments; have fun Padawan."
-		                ],
-		                "how do i attach two items together" : [
-		                	"Equip the Tool Gun from the menu, shoot at prop 1, then prop 2 to weld their actions together. If you move one, both will move - even if not physically connected!"
-		                ],
-		                "how do i fly" : [
-		                	"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key."
-		                ],
-		                "how do i noclip" : [
-		                	"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key."
-		                ],
-		                "how do i find out what graphics card i have" : [
-		                	"To find out which graphics card you have installed, first search for GeForce Experience or AMD Catalyst. Under "My Rig"  it should display all your system information. This will only work on nVidia and AMD cards, not intel integrated chips."
-		                ],
-		                "how do i find out how much ram i have" : [
-		                	"Right click on My Computer and select Properties. The System Window will display your Processor and RAM information."
-		                ],
-		                "how do i find the information on my processor" : [
-		                	"Right click on My Computer and select Properties. The System Window will display your Processor and RAM information."
-		                	"You can find a summary of your rig by first searching for GeForce Experience or AMD Catalyst. Under "My Rig" it should display all your system information. This will only work on nVidia and AMD cards, not intel integrated chips. You must also have the relevant graphics software installed."
-		                	"Open the Start Menu, and click Run, or press the windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information."
-		                ],
-		                "my machine has a gtx 970, will this run rust" : [
+		        ],
+		        "how do i build a base in rust" : [
+		            "Firstly, to build a base in Rust you're going to need to craft a hammer and stock up on some wood and stone. Equip your building plan, select the item you want to build, and click!"
+		        ],
+		        "how do i make a hammer" : [
+		            "Make a hammer using wood in the crafting inventory."
+		        ],
+		        "how do i obtain a building plan" : [
+		            "You can make a building plan using 1 paper, crafted using wood, in the crafting menu."
+		        ],
+		        "how do i access the [crafting/blueprints] menu" : [
+		            "Press TAB to access the crafting/blueprints menu."
+		        ],
+		        "how do i raid someone" : [
+		            "To raid someone, [USERS NAME], you're going to need some tools to break down walls, and possibly some explosives to save time - Good luck!"
+		        ],
+		        "what is the best weapon" : [
+		            "That's all down to opinion! My favourite weapon is the Marksmans Rifle :) what's yours? "
+		        ],
+		        "whats the objective of gmod" : [
+		            "Garry's Mod is a sandbox game - the objective is what you make it. Or you can play user created content!"
+		        ],
+		        "how do i get [props/items] in gmod" : [
+		            "The props/items you have in Garry's mod are completely dependant on the games you own. Pro tip - Buy the Orange Box bundle, you'll get all you need!"
+		        ],
+		        "what is the spawn menu" : [
+		            "The spawn menu allows you to spawn any props you own into your sandbox world. Exciting, huh?"
+		        ],
+		        "how does gmod know what games i have installed to get props from" : [
+		            "Garry's mod will scan your steam games folder and add any items it finds from compatible games."
+		        ],
+		        "i have [game] but my props aren't appearing in gmod how can i find them" : [
+		            "You can change the folder search perimeters to add any compatible games that are not stored in your steam games folder :) It's under Tools/Browse in the Spawn menu."
+		        ],
+		        "how do i open the spawn menu" : [
+		            "The pre-set key for launching the spawn menu is Q."
+		        ],
+		        "what does the physics gun do" : [
+		            "The physics gun allows you to pick up and move items within the game. Throw them, rotate, its up you you, its all physics baby! :D"
+		        ],
+		        "how do i rotate things i'm holding with the physics gun" : [
+		            "You can rotate props you are holding using the WASD keys."
+		        ],
+		        "how do i snap a [prop/item] to position" : [
+		            "Shift + E will snap a prop into position being held by the physics gun."
+		        ],
+		        "how do i freeze an object in mid-air" : [
+		            "While holding the item with the physics gun, click the right mouse button to suspend - you can use this to make items levitate!"
+		        ],
+		        "i can't get my ragdoll to look realistic" : [
+		            "Making a ragdoll look realistic will take time and patience - lots of little adjustments; have fun Padawan."
+		        ],
+		        "how do i attach two items together" : [
+		            "Equip the Tool Gun from the menu, shoot at prop 1, then prop 2 to weld their actions together. If you move one, both will move - even if not physically connected!"
+		        ],
+		        "how do i fly" : [
+		            "To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key."
+		        ],
+		        "how do i noclip" : [
+		            "To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key."
+		        ],
+		        "how do i find out what graphics card i have" : [
+		            "To find out which graphics card you have installed, first search for GeForce Experience or AMD Catalyst. Under `My Rig`  it should display all your system information. This will only work on nVidia and AMD cards, not intel integrated chips."
+		        ],
+		        "how do i find out how much ram i have" : [
+		            "Right click on My Computer and select Properties. The System Window will display your Processor and RAM information."
+		        ],
+		        "how do i find the information on my processor" : [
+		            "Right click on My Computer and select Properties. The System Window will display your Processor and RAM information.",
+		            "You can find a summary of your rig by first searching for GeForce Experience or AMD Catalyst. Under `My Rig` it should display all your system information. This will only work on nVidia and AMD cards, not intel integrated chips. You must also have the relevant graphics software installed.",
+		            "Open the Start Menu, and click Run, or press the windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information."
+		        ],
+		        "my machine has a gtx 970, will this run rust" : [
 		                
-		                ],
-		                "how do i check i have enough storage space" : [
-		                	"To check you have enough storage space on the hard drive you wish to install on, open 'This PC' (Windows 10) or 'My Computer' (Windows 8<). Under devices and drivers it will outline your drives and the amount of storage left on them."
-		                ],
-		                "should i install gmod on an ssd" : [
-		                    	"It could help performance."
-		                    	"Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD."
-		                ],
-		                "should i install rust on an ssd" : [
-		                    	"It could help performance."
-		                    	"Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD."
-		                ]
-					},
-					"emotion1": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					},
-					"emotion2": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					}
-				},
-				"category1": {
-					"emotion0": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					},
-					"emotion1": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					},
-					"emotion2": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					}
-				},
-				"category2": {
-					"emotion0": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					},
-					"emotion1": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
-					},
-					"emotion2": {
-						"input0": [
-							"response",
-							"response",
-							"response"
-						],
-						"input1": [
-							"response",
-							"response",
-							"response"
-						],
-						"input2": [
-							"response",
-							"response",
-							"response"
-						]
+		        ],
+		        "how do i check i have enough storage space" : [
+		            "To check you have enough storage space on the hard drive you wish to install on, open 'This PC' (Windows 10) or 'My Computer' (Windows 8<). Under devices and drivers it will outline your drives and the amount of storage left on them."
+		        ],
+		        "should i install gmod on an ssd" : [
+		                "It could help performance.",
+		                "Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD."
+		        ],
+		        "should i install rust on an ssd" : [
+		                "It could help performance.",
+		                "Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD."
+		        ]
+			},
+			"emotion1": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			},
+			"emotion2": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
 			}
 		},
+		"category1": {
+			"emotion0": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			},
+			"emotion1": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			},
+			"emotion2": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			}
+		},
+		"category2": {
+			"emotion0": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			},
+			"emotion1": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			},
+			"emotion2": {
+				"input0": [
+					"response",
+					"response",
+					"response"
+				],
+				"input1": [
+					"response",
+					"response",
+					"response"
+				],
+				"input2": [
+					"response",
+					"response",
+					"response"
+				]
+			}
+		}
 	}
 }

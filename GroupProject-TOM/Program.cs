@@ -8,9 +8,13 @@ namespace GroupProject_TOM
 {
 	class Program
 	{
+		
+
 		static void Main(string[] args)
 		{
+			ResponseFinder responses = new ResponseFinder();
 
+			Console.ReadKey();
 		}
 	}
 }
