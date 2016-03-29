@@ -30,8 +30,6 @@ namespace GroupProject_TOM
 
 			var responses = JsonParser.Deserialize(json);
 
-			Console.WriteLine(json);
-
 			Console.WriteLine(responses.response);
 		}
 	}
