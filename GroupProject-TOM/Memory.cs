@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace GroupProject_TOM
 {
-	class Program
+	class Memory
 	{
-		
-
-		static void Main(string[] args)
+		public Memory()
 		{
-			ResponseFinder responses = new ResponseFinder();
 
-			Console.ReadKey();
 		}
 	}
 }

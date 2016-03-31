@@ -6,15 +6,13 @@ using System.Threading.Tasks;
 
 namespace GroupProject_TOM
 {
-	class Program
+	class Emotion
 	{
-		
+		int emotLevel;
 
-		static void Main(string[] args)
+		public Emotion(int emotLevel)
 		{
-			ResponseFinder responses = new ResponseFinder();
-
-			Console.ReadKey();
+			this.emotLevel = emotLevel;
 		}
 	}
 }
