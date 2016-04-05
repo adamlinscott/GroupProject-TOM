@@ -52,7 +52,7 @@ namespace GroupProject_TOM
             bool ChatOver = false;
             //TODO//Take ChatEnd and use ResponseFinder to find response before looping or closing.
             FormatInput(ChatEnd);
-            if (ChatOver = true)
+            if (ChatOver == true)
             {
                 //TODO// Place random Goodbye message
                 //TODO// Terminate Application
@@ -62,35 +62,14 @@ namespace GroupProject_TOM
         static void FormatInput(string Input)
         {
             string UserString = Input;
-            Input = Input.Replace(" ", "");
-            Input = Input.Replace("!", "");
-            Input = Input.Replace("£", "");
-            Input = Input.Replace("$", "");
-            Input = Input.Replace("%", "");
-            Input = Input.Replace("^", "");
-            Input = Input.Replace("&", "");
-            Input = Input.Replace("*", "");
-            Input = Input.Replace("(", "");
-            Input = Input.Replace(")", "");
-            Input = Input.Replace("-", "");
-            Input = Input.Replace("_", "");
-            Input = Input.Replace("=", "");
-            Input = Input.Replace("+", "");
-            Input = Input.Replace("|", "");
-            Input = Input.Replace("<", "");
-            Input = Input.Replace(">", "");
-            Input = Input.Replace("?", "");
-            Input = Input.Replace("/", "");
-            Input = Input.Replace("[", "");
-            Input = Input.Replace("]", "");
-            Input = Input.Replace("{", "");
-            Input = Input.Replace("}", "");
-            Input = Input.Replace(";", "");
-            Input = Input.Replace(":", "");
-            Input = Input.Replace("@", "");
-            Input = Input.Replace("'", "");
-            Input = Input.Replace("#", "");
-            Input = Input.Replace("~", "");
+            string[] elements = new string[29] { " ", "!", "£", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", 
+                                               "|", "<", ">", "?", "/", "[", "]", "{", "}", ";", ":", "@", "'", "#", "~"};
+
+            for (int i = 0; i < elements.Length; i++)
+            {
+                Input = Input.Replace(elements[i], "");
+            }
+
             return;
         }
 
