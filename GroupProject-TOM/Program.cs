@@ -30,6 +30,7 @@ namespace GroupProject_TOM
                 Console.WriteLine("Hi, My name is Tom, How can I assist you today?"); //TODO/Random Welcome//
                 Welcome = false;
             }
+            return;
         }
 
         static void Chat()
@@ -43,6 +44,7 @@ namespace GroupProject_TOM
                 FormatInput(Current); //Format the string (No spaces, punctuation)
                 UserInput.Add(Current);
             }
+            return;
         }
 
         static void ChatEnd()
@@ -57,6 +59,7 @@ namespace GroupProject_TOM
                 //TODO// Place random Goodbye message
                 //TODO// Terminate Application
             }
+            return;
         }
 
         static void FormatInput(string Input)
