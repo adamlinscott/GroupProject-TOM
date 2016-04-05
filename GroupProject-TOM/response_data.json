@@ -23,104 +23,87 @@
 					"Yes, Rust is slightly more hardware demanding than Garrys Mod so you shouldn't have any problems",
 					"You should be able to if you have enough space to install it."
 				],
-				"my pc runs gmod can it run rust"
-				:
 				[
+					"my pc runs gmod can it run rust",
 					"Rust requires slightly higher specifications than Garrys Mod: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
 				],
-				"what is the minimum spec for rust"
-				:
 				[
+					"what is the minimum spec for rust",
 					"Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
 				],
-				"what is the minimum spec for gmod"
-				:
 				[
+					"what is the minimum spec for gmod",
 					"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible"
 				],
-				"what do i need to run rust on highest settings"
-				:
 				[
+					"what do i need to run rust on highest settings",
 					"We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space."
 				],
-				"what do i need to run gmod on highest settings"
-				:
 				[
+					"what do i need to run gmod on highest settings",
 					"We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space."
 				],
-				"should i upgrade to an amd or nvidia graphics card to play"
-				:
 				[
+					"should i upgrade to an amd or nvidia graphics card to play",
 					"I prefer NVIDIA but that's just me.",
 					"Go with NVIDIA! I think Rust actually works better on their cards."
 				],
-				"my machine meets the minimum specifications but not the recommended would rust run well enough"
-				:
 				[
+					"my machine meets the minimum specifications but not the recommended would rust run well enough",
 					"Rust should run fine on the minimum specifications, but the graphics quality may be limited."
 				],
-				"my machine meets the minimum specifications but not the recommended would gmod run well enough"
-				:
 				[
+					"my machine meets the minimum specifications but not the recommended would gmod run well enough",
 					"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
 				],
-				"can i play rust on the minimum specifications"
-				:
 				[
+					"can i play rust on the minimum specifications",
 					"Rust should run fine on the minimum specifications, but the graphics quality may be limited."
 				],
-				"can i play gmod on the minimum specifications"
-				:
 				[
+					"can i play gmod on the minimum specifications",
 					"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited."
 				],
-				"how do i install rust"
-				:
 				[
+					"how do i install rust",
 					"You can install Rust by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/252490/"
 				],
-				"how do i install gmod"
-				:
 				[
+					"how do i install gmod",
 					"You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/"
 				],
-				"how much is gmod"
 				:
 				[
+					"how much is gmod",
 					"Garrys Mod is £6.99 on Steam.",
 					"Garrys Mod costs £6.99 on Steam."
 				],
-				"how much is rust"
-				:
 				[
+					"how much is rust",
 					"Rust is £14.99 on Steam.",
 					"Rust costs £14.99 on Steam."
 				],
-				"what do i need to run mods on rust"
-				:
 				[
+					"what do i need to run mods on rust"
 					"Visit this link: http://playrustwiki.com/wiki/Server_Mods"
 				],
-				"how do i play rust"
-				:
 				[
+					"how do i play rust",
 					"Do you have the steam client installed on your PC?",
 					"Can you see the game in your Library tab?"
 				],
-				"how do i play gmod"
-				:
 				[
+					"how do i play gmod",
 					"Do you have the steam client installed on your PC?",
 					"Can you see the game in your Library tab?"
 				],
-				"what is the most popular gamemode"
-				:
 				[
+					//not sure if this question would work. How would it know if you're talking about rust or gmod?
+					"what is the most popular gamemode"
+				],
 
-				],
-				"do you play rust"
-				:
 				[
+					"do you play rust",
 					"I do play Rust, but not very often.",
 					"Yes, not that often, though.",
 					"Absolutely, but not much recently",
@@ -129,9 +112,8 @@
 					"Absolutely, but not much recently. Do you?",
 					"I've played Rust now and again."
 				],
-				"do you play gmod"
-				:
 				[
+					"do you play gmod",
 					"I do play Gmod, but not very often.",
 					"Yes, not that often, though.",
 					"Absolutely, but not much recently",
@@ -140,51 +122,44 @@
 					"Absolutely, but not much recently. Do you?",
 					"I've played Gmod now and again."
 				],
-				"what is your steam id"
-				:
 				[
+					"what is your steam id",
 					"I can't tell you that, sorry.",
 					"I'm not allowed to play with clients, sorry.",
 					"Sorry, it's against my work policy to play with clients...",
 					"Sorry, I can't tell you.",
 					"I can't play with clients, it's against my work policy. :("
 				],
-				"would you like to play rust with me"
-				:
 				[
+					"would you like to play rust with me",
 					"I can't play with clients, sorry.",
 					"Sorry, I'm not allowed."
 				],
-				"would you like to play gmod with me"
-				:
 				[
+					"would you like to play gmod with me",
 					"I can't play with clients, sorry.",
 					"Sorry, I'm not allowed."
 				],
-				"how much space do i need to install gmod"
-				:
 				[
+					"how much space do i need to install gmod",
 					"Garrys Mod needs a minimum of 5 GB available space, but I recommend at least 10 GB to run the game smoothly!",
 					"It needs at least 5 GB."
 				],
-				"how much space do i need to install rust"
-				:
 				[
+					"how much space do i need to install rust",
 					"Rust needs a minimum of 8 GB available space, but I recommend at least 10 GB for the game to run smoothly!",
 					"It needs at least 8 GB."
 				],
-				"what do you think of bruce"
-				:
 				[
+					"what do you think of bruce",
 					"I don't know a Bruce, sorry.",
 					"Who is Bruce?",
 					"Bruce?",
 					"I don't know who that is.",
 					"Sorry?"
 				],
-				"are you an ai"
-				:
 				[
+					"are you an ai",
 					"I'm as human as can be!",
 					"Of course not!",
 					"How about I ask you that question?",
@@ -192,36 +167,32 @@
 					"Nope!",
 					"No...my name is Tom... :("
 				],
-				"what is your favourite game"
-				:
 				[
+					"what is your favourite game",
 					"I couldn't possibly choose...",
 					"...haha that's a difficult one. What's yours?",
 					"Why don't you tell me yours?",
 					"Sorry, I don't really have a favourite! D:",
 					"I can't decide!"
 				],
-				"i hate gmod"
-				:
 				[
+					"i hate gmod",
 					"I'm sorry you feel that way.",
 					"That's not good!"
 				],
-				"i hate rust"
-				:
 				[
+					"i hate rust",
 					"I'm sorry you feel that way.",
 					"That's not good!"
 				],
-				"i love gmod"
-				:
 				[
+					"i love gmod",
 					"Me too!",
 					"Haha, that's great to hear!",
 					"Haha, well Gmod is awesome! :)",
 					"That's great! Do you need help with anything?"
 				],
-				"i love rust"
+				
 				:
 				[
 					"Me too!",
