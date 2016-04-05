@@ -52,7 +52,7 @@ namespace GroupProject_TOM
             bool ChatOver = false;
             //TODO//Take ChatEnd and use ResponseFinder to find response before looping or closing.
             FormatInput(ChatEnd);
-            if (ChatOver = true)
+            if (ChatOver == true)
             {
                 //TODO// Place random Goodbye message
                 //TODO// Terminate Application
