@@ -18,7 +18,7 @@ namespace GroupProject_TOM
 		{
 			//read in response_data.json
 			this.threshold = threshold;
-			JSON = System.IO.File.ReadAllText(@"D:\Documents\GitHub\GroupProject-TOM\GroupProject-TOM\response_data.json");
+			JSON = System.IO.File.ReadAllText(Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"\response_data.json");
 		}
 
 		public string GetResponse(string input)
