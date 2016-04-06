@@ -70,7 +70,6 @@
 					"how do i install gmod",
 					"You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/"
 				],
-				:
 				[
 					"how much is gmod",
 					"Garrys Mod is £6.99 on Steam.",
@@ -82,7 +81,7 @@
 					"Rust costs £14.99 on Steam."
 				],
 				[
-					"what do i need to run mods on rust"
+					"what do i need to run mods on rust",
 					"Visit this link: http://playrustwiki.com/wiki/Server_Mods"
 				],
 				[
@@ -219,7 +218,7 @@
 
 				],
 				[
-					"what is the objective in rust"
+					"what is the objective in rust",
 					"Rust is a permadeath MMO, when you die, you'll lose everything on you - if someone raids your base, they will destroy it. The aim, is to survive. Think you have what it takes [USERS NAME]?"
 				],
 				[
@@ -424,7 +423,6 @@
 				[
 					"can you help my friend with his problems"
 				],
-				:
 				[
 					"how do i build a base in rust",
 					"Firstly, to build a base in Rust you're going to need to craft a hammer and stock up on some wood and stone. Equip your building plan, select the item you want to build, and click!"
@@ -514,7 +512,7 @@
 					"Right click on My Computer and select Properties. The System Window will display your Processor and RAM information."
 				],
 				[
-					"how do i find the information on my processor"
+					"how do i find the information on my processor",
 					"Right click on My Computer and select Properties. The System Window will display your Processor and RAM information.",
 					"You can find a summary of your rig by first searching for GeForce Experience or AMD Catalyst. Under `My Rig` it should display all your system information. This will only work on nVidia and AMD cards, not intel integrated chips. You must also have the relevant graphics software installed.",
 					"Open the Start Menu, and click Run, or press the windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information."
