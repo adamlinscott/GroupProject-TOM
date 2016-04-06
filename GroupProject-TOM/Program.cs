@@ -8,11 +8,11 @@ namespace GroupProject_TOM
 {
 	class Program
 	{
-		
-
 		static void Main(string[] args)
 		{
-			ResponseFinder responses = new ResponseFinder();
+			ResponseFinder responses = new ResponseFinder(15);
+
+			Console.WriteLine(responses.GetResponse(Console.ReadLine()));
 
 			Console.ReadKey();
 		}
