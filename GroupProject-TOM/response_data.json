@@ -3,8 +3,6 @@
 	"payload": {
 		"category0": {
 			"emotion0": [
-
-				//TODO: all responses need to be changed so that the questions appear as the first element in the array of responses.
 				[
 					"can my laptop run gmod",
 					"We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space",
@@ -98,7 +96,6 @@
 					"Can you see the game in your Library tab?"
 				],
 				[
-					//not sure if this question would work. How would it know if you're talking about rust or gmod?
 					"what is the most popular gamemode"
 				],
 
@@ -218,7 +215,6 @@
 					"Gmod was made originally by Garry Newman as a mod for half life 2"
 				],
 				[
-					//answers required
 					"how do i build in rust"
 
 				],
@@ -243,7 +239,6 @@
 					"Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
 				],
 				[
-					//answers required
 					"tell me about facepunch studios"
 				],
 				[
@@ -284,7 +279,6 @@
 					"To efficiently gather resources in Rust, you will need to get some basic tools - a stone axe and a stone pick. To craft these, use the stone you spawned with to hit tree's and rocks for resources, and when you have enough, open the build guide using TAB and build your tools."
 				],
 				[
-					//answers required
 					"what is a modded server"
 				],
 				[
@@ -328,7 +322,6 @@
 					"Email your CV to jobs@facepunchstudios.com and they'll get back to you!"
 				],
 				[
-					//answers required
 					"where is facepunch studios located"
 				],
 				[
@@ -342,7 +335,6 @@
 					"I play both Rust and Garys Mod in my spare time :)"
 				],
 				[
-					//answers required
 					"how do i report [playerX]"
 				],
 				[
@@ -354,11 +346,9 @@
 					"In Rust, you must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200  - with the 1200 blueprints providing the rarer weapons and items in the game."
 				],
 				[
-					//answers required
 					"what is a radtown"
 				],
 				[
-					//answers required
 					"how do i avoid radiation poisoning"
 				],
 				[
@@ -374,15 +364,12 @@
 					"To gather sulphur, mine the rocks that look like they have a greenish layer over them. You can also collect sulphur in chunks of 50 from the ground.... or steal it from other plays ;)"
 				],
 				[
-					//answers required
 					"how do i get metal fragments"
 				],
 				[
-					//answers required
 					"how do i get high quality metal"
 				],
 				[
-					//answers required
 					"how do i make a [weaponName]"
 				],
 				[
@@ -390,7 +377,6 @@
 					"The servers on Rust are wiped on the first Thursday of each month to make room for new players to build bases."
 				],
 				[ 
-					//answers required
 					"what are the different types of servers"
 				],
 				[
@@ -406,15 +392,12 @@
 					"TOM is our Technical Operations Machine! But he's not a machine, he's a real boy! Honest..."
 				],
 				[
-					//answers required
 					"i have already tried that what else can i do"
 				],
 				[
-					//answers required
 					"i don't know how how can i find out"
 				],
 				[
-					//answers required
 					"i want to make a complaint"
 				],
 				[
@@ -422,11 +405,9 @@
 					"Unfortunately I am here to give technical support, if you require assistance on billing/refunds then you will need to email our billing department."
 				],
 				[
-					//answers required
 					"do you play the games yourself"
 				],
 				[
-					//answers required
 					"do you find the games hard yourself"
 				],
 				[
@@ -434,16 +415,13 @@
 					"I'm sorry to hear that. Have you checked the game requirements to see if your pc meets them?"
 				],
 				[
-					//answers required
 					"how much experience do you have"
 
 				],
 				[
-					//answers required
 					"have you completed [game]"
 				],
 				[
-					//answers required
 					"can you help my friend with his problems"
 				],
 				:
@@ -542,7 +520,6 @@
 					"Open the Start Menu, and click Run, or press the windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information."
 				],
 				[
-					//answers required
 					"my machine has a gtx 970, will this run rust"
 				],
 				[
