@@ -12,7 +12,7 @@ namespace GroupProject_TOM
 
 		static void Main(string[] args)
 		{           
-            ResponseFinder responses = new ResponseFinder();
+            ResponseFinder responses = new ResponseFinder(5000); //threshold
            
             Welcome(); //Run Welcome Function
             Chat(); //Main Chat Function
