@@ -60,7 +60,7 @@ namespace GroupProject_TOM
         static void DelayOutput(string Output) //Delays outputs based on the number of chars in string
         {                                      //Also adds "Tom is typing..." and removes it using ClearTyping()
             int num = Output.Length;
-            num = num * 78;
+            num = num * 95;
             Console.WriteLine("Tom is typing...");
             Thread.Sleep(num);
             ClearTyping();
@@ -110,7 +110,7 @@ namespace GroupProject_TOM
         static void FormatInput(string Input) //Formats user input
         {
             string UserString = Input;
-            string[] elements = new string[29] { " ", "!", "£", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", 
+            string[] elements = new string[28] { "!", "£", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", 
                                                "|", "<", ">", "?", "/", "[", "]", "{", "}", ";", ":", "@", "'", "#", "~"};
 
             for (int i = 0; i < elements.Length; i++)
