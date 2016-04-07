@@ -31,40 +31,47 @@ namespace GroupProject_TOM
 				var responses = JsonParser.Deserialize(JSON);
 				for(int i = 0; i < responses.payload.category0.emotion0.Capacity - 1; i++)
 				{
-					int quesScore = 0;
-					if (AnyKeywordMatch(input, responses.payload.category0.emotion0[i][0], "gmod", "garrys mod", "garry's mod", "rust"))
+					try
 					{
-						quesScore += 500;
-					}
-
-					for(int j = 0; j < responses.payload.category0.emotion0[i][0].Length; j++)
-					{
-						for(int k = 0; k < input.Length; k++)
+						int quesScore = 0;
+						if (AnyKeywordMatch(input, responses.payload.category0.emotion0[i][0], "gmod", "garrys mod", "garry's mod", "rust"))
 						{
-							int add = (10 * 10) - ((k - j) * (k - j));
-							if(input[k] == responses.payload.category0.emotion0[i][0][j])
+							quesScore += 500;
+						}
+
+						for(int j = 0; j < responses.payload.category0.emotion0[i][0].Length; j++)
+						{
+							for(int k = 0; k < input.Length; k++)
 							{
-								if (add > 0)
+								int add = (10 * 10) - ((k - j) * (k - j));
+								if(input[k] == responses.payload.category0.emotion0[i][0][j])
 								{
-									quesScore += PhraseMatch(input, responses.payload.category0.emotion0[i][0], k, j, 0) + add;
+									if (add > 0)
+									{
+										quesScore += PhraseMatch(input, responses.payload.category0.emotion0[i][0], k, j, 0) + add;
+									}
 								}
 							}
 						}
-					}
 
-					if (input.Length > responses.payload.category0.emotion0[i][0].Length)
-					{
-						quesScore = quesScore / responses.payload.category0.emotion0[i][0].Length;
-					}
-					else
-					{
-						quesScore = quesScore / input.Length;
-					}
+						if (input.Length > responses.payload.category0.emotion0[i][0].Length)
+						{
+							quesScore = quesScore / responses.payload.category0.emotion0[i][0].Length;
+						}
+						else
+						{
+							quesScore = quesScore / input.Length;
+						}
 
-					if(quesScore > highScore)
+						if(quesScore > highScore)
+						{
+							matchedArrayIndex = i;
+							highScore = quesScore;
+						}
+					}
+					catch
 					{
-						matchedArrayIndex = i;
-						highScore = quesScore;
+
 					}
 				}
 				try
