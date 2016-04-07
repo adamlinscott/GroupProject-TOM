@@ -18,7 +18,7 @@ namespace GroupProject_TOM
             ChatEnd();
 
 
-			Console.ReadKey();
+			//Console.ReadKey();
 		}
         
         static void Welcome() //Runs once. Generates random welcome.
@@ -89,17 +89,22 @@ namespace GroupProject_TOM
                 else
                 {
                     FormatInput(Current); 
-                    UserInput.Add(Current);                    
-                    responses.GetResponse(Current);
-                    return;
+                    UserInput.Add(Current);                                        
+                    string delay = responses.ToString();
+                    DelayOutput(delay);
+                    Console.WriteLine(responses.GetResponse(Current));
+                    Chat();
+                    //return;
                 }
             }
         }
 
         static void ChatEnd() //End function. To select chat end via emotion level
         {
-            Console.WriteLine("Was that everything I can help with today?"); //TODO//Random Ending//
-            string ChatEnd = Console.ReadLine();
+            //Console.WriteLine("Was that everything I can help with today?"); //TODO//Random Ending//
+            //For now I'm just going to loop chat.
+            //TODO add way to escape loop to exit chat.
+            Chat();
         }
 
         static void FormatInput(string Input) //Formats user input
