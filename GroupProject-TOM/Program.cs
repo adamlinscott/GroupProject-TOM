@@ -76,7 +76,7 @@ namespace GroupProject_TOM
         static void Chat() //Main chat function
         {
             List<string> UserInput = new List<string>();
-            ResponseFinder responses = new ResponseFinder(200); //threshold
+            ResponseFinder responses = new ResponseFinder(5000); //threshold
             bool MainLoop = true;
             if (MainLoop == true)
             {
