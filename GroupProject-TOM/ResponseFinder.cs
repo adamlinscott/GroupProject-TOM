@@ -74,9 +74,34 @@ namespace GroupProject_TOM
 
 					}
 				}
+
 				try
 				{
-					return responses.payload.category0.emotion0[matchedArrayIndex][1];
+					if(highScore >= threshold)
+					{
+						Random rand = new Random();
+						string response = null;
+						while(response == null)
+						{
+							try
+							{
+								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(1,8)];
+							}
+							catch
+							{
+								response = null;
+							}
+						}
+						Console.ForegroundColor = ConsoleColor.DarkGray;
+						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
+						Console.ForegroundColor = ConsoleColor.Gray;
+
+						return response;
+					}
+					else
+					{
+						return "NO_VIABLE_RESPONSE";
+					}
 				}
 				catch
 				{
