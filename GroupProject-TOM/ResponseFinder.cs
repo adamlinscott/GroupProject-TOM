@@ -14,6 +14,12 @@ namespace GroupProject_TOM
 		public string JSON;
 		private int threshold;
 
+
+		/* ResponseFinder Constructor
+		 *
+		 * takes an integer and sets the threshold which the responses will be compaired against
+		 * sets the public string JSON to the content of the .json tile found in the executing directory 
+		 */
 		public ResponseFinder(int threshold)
 		{
 			//read in response_data.json
@@ -21,6 +27,16 @@ namespace GroupProject_TOM
 			JSON = System.IO.File.ReadAllText(Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"\response_data.json");
 		}
 
+
+		/* GetResponse method
+		 *  
+		 * takes string as input to fins a response for
+		 * Returns string as response
+		 * 
+		 * returns NO_VIABLE_RESPONSE if best response does not meet threshold
+		 * returns NO_RESPONSE_IN_JSON if no responses are found in the JSON
+		 * returns NO_INPUT if input string is equal to "" or null
+		 */
 		public string GetResponse(string input)
 		{
 			if( input != "" && input != null)
@@ -114,6 +130,12 @@ namespace GroupProject_TOM
 			}
 		}
 
+
+		/* AnyKeywordMatch method
+		 * 
+		 * takes 2 target strings and multiple keyword strings
+		 * returns true only if both target strings contain any of the same keyword
+		 */
 		private bool AnyKeywordMatch(string mString1, string mString2, params string[] keyWords)
 		{
 			bool matching = false;
@@ -127,6 +149,12 @@ namespace GroupProject_TOM
 			return matching;
 		}
 
+
+		/* AllKeywordMatch method
+		 * 
+		 * takes 2 target strings and multiple keyword strings
+		 * returns true only if both target strings contain all keywords
+		 */
 		private bool AllKeywordMatch(string mString1, string mString2, params string[] keyWords)
 		{
 			bool matching = true;
@@ -140,6 +168,13 @@ namespace GroupProject_TOM
 			return matching;
 		}
 
+
+		/* PhraseMatch method
+		 * 
+		 * takes 2 target strings and 2 character index values as ints and a bonus int
+		 * returns a score based on how many characters in a row appear in the same order in 
+		 * both target strings from a set position.
+		 */
 		private int PhraseMatch(string mString1, string mString2, int startChar1, int startChar2, int bonus)
 		{
 			try
