@@ -15,6 +15,7 @@ namespace GroupProject_TOM
 		private int threshold;
 		private string lastQuestion;
 		private int lastResponseID;
+		private int emotion;
 
 
 		/* ResponseFinder Constructor
@@ -27,6 +28,7 @@ namespace GroupProject_TOM
 			//read in response_data.json
 			this.threshold = threshold;
 			JSON = System.IO.File.ReadAllText(Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location) + @"\response_data.json");
+			emotion = 7;
 		}
 
 
@@ -103,9 +105,18 @@ namespace GroupProject_TOM
 						{
 							try
 							{
-								int responseID = rand.Next(2, 8);
+								int responseID = emotion;
 								if (responseID != lastResponseID)
+								{
 									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
+								}
+
+								responseID = rand.Next(2, 9);
+								if (responseID != lastResponseID)
+								{
+									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
+								}
+
 							}
 							catch
 							{
@@ -116,6 +127,12 @@ namespace GroupProject_TOM
 						Console.ForegroundColor = ConsoleColor.DarkGray;
 						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
 						Console.ForegroundColor = ConsoleColor.Gray;
+
+						emotion += Convert.ToInt32(responses.payload.category0.emotion0[matchedArrayIndex][1]);
+						if (emotion < 2)
+							emotion = 2;
+						else if (emotion > 9)
+							emotion = 9;
 
 						return response;
 					}
