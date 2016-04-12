@@ -317,7 +317,7 @@
 					"what is the difference between procedural maps and hapis island maps on rust",
 					"Procedural maps are randomly generated. Hapis island are hand-made. :/",
 					"Procedural maps are randomly generated. Hapis island are hand-made. :/",
-					"Procedural map generation is random, every seed is different and all servers can be as well. Hapis is a hand made map with added detail."
+					"Procedural map generation is random, every seed is different and all servers can be as well. Hapis is a hand made map with added detail.",
 					"Hmm. You see, procedural maps are always randomly generated, whereas hapis-island maps on Rust are custom-built maps with details like hand-made landmarks! :)"
 				],
 				[
@@ -331,7 +331,7 @@
 					"how do i set up a gmod server",
 					"This guide should answer your question: https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
 					"Take a look at this guide: https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
-					"Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
+					"Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
 					"It's not too much trouble. You can easily get game-hosting companies for a monthly fee! :) But, if you want to do it yourself, this wiki will help you! https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server"
 				],
 				[
@@ -400,7 +400,7 @@
 				[
 					"how big is the download for rust",
 					"You need at least 8 GB!!!",
-					"8 GB!"
+					"8 GB!",
 					"8 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
 					"A reasonable size.  It's an 8 GB download, but personally I would recommend keeping 10 GB free so the game can run smoother! :P"
 				],
@@ -465,12 +465,12 @@
 					"Not bad. What can I help you with today?",
 					"Good thanks.",
 					"I'm good! Yourself? :)",
-					"I'm great! How're you? :D",
+					"I'm great! How're you? :D"
 				],
 				[
 					"do you play garrys mod or rust",
 					"Which do you play?",
-					"I play both of them! :)"
+					"I play both of them! :)",
 					"I play both of them :) What about you?",
 					"I play both Garry's Mod and Rust! I played Rust last night but I moreorless died instantly... :("
 				],
@@ -485,7 +485,7 @@
 					"how does the blueprint system work in rust",
 					"You just collect blueprint fragments from barrels, chests, or steal them from players. Then, you can just use them to craft new items!",
 					"You just collect blueprint fragments from barrels, chests, or steal them from other players, that's all. Otherwise, visit our wiki here: http://rust.wikia.com/wiki/Blueprints",
-					"You must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200 - with the 1200 blueprints providing the rarer weapons and items in the game."
+					"You must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200 - with the 1200 blueprints providing the rarer weapons and items in the game.",
 					"Oh it's easy! You can collect some blueprint fragments from barrels, chests or just steal them from other players! They're just a useful way to craft further items in the game, haha! :D"
 				],
 				[
@@ -534,7 +534,7 @@
 				[
 					"how do i get high quality metal",
 					"Good luck with that. High quality metal is a pretty rare ore, you can only get them by either mining rocks, barrels or using the Mining Quarry.",
-					"Err you should be able to get them from barrels, mining rocks or using the Mining Quarry."
+					"Err you should be able to get them from barrels, mining rocks or using the Mining Quarry.",
 					"High qualtiy metal ore is pretty rare, you can get some from either barrels, mining rocks or by using the Mining Quarry! Personally I recommend going to the Arctic region as they are more common there.",
 					"Haha! Well, you should be able to get some from barrels, mining rocks or using the Mining Quarry...the problem is that it's pretty rare! :/ Try going to the Arctic region! ;)"
 				],
@@ -548,22 +548,22 @@
 				[
 					"i have been banned what for",
 					"Sorry, I can't help you there!",
-					"Sorry, I don't manage player bans."
+					"Sorry, I don't manage player bans.",
 					"If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair.",
 					"Oh no! Hopefully it was nothing major! Well in either case, I don't manage the player bans. But I can advise you to follow the link that they sent you in the email!"
 				],
 				[
 					"why have i been banned",
 					"Sorry, I can't help you there!",
-					"Sorry, I don't manage player bans."
+					"Sorry, I don't manage player bans.",
 					"If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair.",
 					"Oh no! Hopefully it was nothing major! Well in either case, I don't manage the player bans. But I can advise you to follow the link that they sent you in the email!"
 				],
 				[
 					"what does tom stand for",
 					"What does your name stand for?",
-					"Tom."
-					"Tom is just my name...? :/"
+					"Tom.",
+					"Tom is just my name...? :/",
 					"Uh...what? It stands for nothing, it's just my name! Tom! :P"
 				],
 				[
@@ -590,12 +590,12 @@
 				[
 					"do you play the games yourself",
 					"Which do you play?",
-					"I play both of them! :)"
+					"I play both of them! :)",
 					"I play both of them :) What about you?",
 					"I play both Garry's Mod and Rust! I played Rust last night but I moreorless died instantly... :("
 				],
 				[
-					"do you find the games hard yourself"
+					"do you find the games hard yourself",
 					"Do you?",
 					"It varies from day to day personally.",
 					"It varies from day to day personally, sometimes I struggle in modes like Prop Hunt in Gmod or Battle Royale in Rust.",
@@ -758,14 +758,14 @@
 				],
 				[
 					"how do i fly",
-					"Press the V key. You should be able to fly then."
+					"Press the V key. You should be able to fly then.",
 					"The pre-set key for enabling flying is V, unless you have customised your controls.",
 					"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key. Anything else I can help you with? :)",
 					"*flies away*...nah i'm kidding haha! Just press the key, V! And then you can fly! :D Good luck!"
 				],
 				[
 					"how do i noclip",
-					"Press the V key. You should be able to noclip then."
+					"Press the V key. You should be able to noclip then.",
 					"The pre-set key for enabling noclipping is V, unless you have customised your controls.",
 					"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key. Anything else I can help you with? :)",
 					"*flies away*...nah i'm kidding haha! Just press the key, V! And then you can noclip! :D Good luck!"				
@@ -792,7 +792,7 @@
 					"Just go to This Computer or My Computer, depending on which version of Windows you have. Then when you're here, you should be able to see your processor info! Is there anything else I can do to help? :)"
 				],
 				[
-					"my machine has a gtx 970, will this run rust"
+					"my machine has a gtx 970, will this run rust",
 					"A 970 could work, but it would depend on what processor is accompanying it.",
 					"Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
 					"Although we recommend a 980 for Rust, I play it myself on a 970 just fine, and achieve a steady 50fps. I'm using an I5 3750k too, what processor are you using?",
@@ -818,7 +818,35 @@
 					"It could help performance.",
 					"Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD.",
 					"Hmm. Personally, I would indeed recommend installing Rust onto an SSD if you can! Only because source engine games tend to benefit more from being put onto an SSD, such as lower loading times. So yeah!"
-				]
+				],
+                [
+                    "can you help me",
+                    "With what?",
+                    "Sure. What do you need?",
+                    "Sure, what do you need?",
+                    "Of course! How can I help? :D"
+                ],
+                [
+                    "i need help",
+                    "With what?",
+                    "Sure. What do you need?",
+                    "Sure, what do you need?",
+                    "Of course! How can I help? :D"
+                ],
+                [
+                    "i hate you",
+                    "The feeling is mutual. B***h.",
+                    "*facepalm*",
+                    "That's not good.",
+                    "I know you love me really ;)."
+                ],
+                [
+                    "im fine",
+                    "Great.",
+                    "Great.",
+                    "That's good. What can I help you with?",
+                    "That's great to hear! How can I help?"
+                ]
 			],
 			"emotion1": {
 				"input0": [
