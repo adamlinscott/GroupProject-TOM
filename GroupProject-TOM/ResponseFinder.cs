@@ -13,6 +13,8 @@ namespace GroupProject_TOM
 	{
 		public string JSON;
 		private int threshold;
+		private string lastQuestion;
+		private int lastResponseID;
 
 
 		/* ResponseFinder Constructor
@@ -101,16 +103,25 @@ namespace GroupProject_TOM
 						{
 							try
 							{
-								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(1,8)];
+								int responseID = rand.Next(2, 8);
+								if (responseID != lastResponseID)
+									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
 							}
 							catch
 							{
 								response = null;
 							}
 						}
+<<<<<<< HEAD
 						//Console.ForegroundColor = ConsoleColor.DarkGray;
 						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
 						//Console.ForegroundColor = ConsoleColor.Gray;
+=======
+						lastQuestion = responses.payload.category0.emotion0[matchedArrayIndex][0];
+						Console.ForegroundColor = ConsoleColor.DarkGray;
+						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
+						Console.ForegroundColor = ConsoleColor.Gray;
+>>>>>>> refs/remotes/origin/adam
 
 						return response;
 					}
