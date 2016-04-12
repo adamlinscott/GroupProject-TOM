@@ -85,7 +85,7 @@ namespace GroupProject_TOM
 						{
 							try
 							{
-								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(1,8)];
+								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(2,9)];
 							}
 							catch
 							{
