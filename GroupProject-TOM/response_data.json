@@ -1064,10 +1064,10 @@
 				[
 					"what do you do",
 					"0",
-					"I'm here to give you help and advice for Gmod and Rust.",
-					"I help with any problems that you may have with Gmod and Rust.",
+					"My job is to help with any problems you may have with Gmod and Rust.",
+					"I'm here to give you advice for Gmod and Rust.",
 					"I'm here to help you! Let me know if there's anything bothering you regarding Rust and Gmod! :)",
-					"To happily you with any questions you may have about Rust and Gmod! :D Ask away!!!"
+					"I will happily help you with any questions you may have about Rust and Gmod! :D Ask away!!!"
 				],
 				[
 					"nice",
@@ -1195,7 +1195,7 @@
 					"The weather isn't too bad today.",
 					"Not too bad.",
 					"It's not too bad today haha. How can I help?",
-					"It's not bad today surprisingly, haha! How can I help you today? :)"
+					"It's not bad today surprisingly, haha! How can I help you? :)"
 				],
 				[
 					"how is the weather",
@@ -1203,7 +1203,7 @@
 					"The weather isn't too bad today.",
 					"Not too bad.",
 					"It's not too bad today haha. How can I help?",
-					"It's not bad today surprisingly, haha! How can I help you today? :)"
+					"It's not bad today surprisingly, haha! How can I help you? :)"
 				],
 				[
 					"what do you do in your free time",
@@ -1220,6 +1220,14 @@
 					"Play Rust.",
 					"Hmm, recently I've just been playing Rust, haha!",
 					"Honestly...I've been obsessed with playing Rust recently, so I've just been playing that constantly. Haha! XD"
+				],
+				[
+					"what is steam",
+					"0",
+					"Steam is a service which provides a catalog of countless amounts of different PC games.",
+					"Steam is just software that you need for purchasing and downloading Rust and Gmod.",
+					"Steam is basically a digital catalog of countless amounts of different PC games! :D You need it so you can get Rust and Gmod!",
+					"Steam is an awesome digital catalog of many amazing, different PC games! :)"
 				]
 			]
 		}
