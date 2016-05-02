@@ -92,9 +92,9 @@ namespace GroupProject_TOM
 								response = null;
 							}
 						}
-						Console.ForegroundColor = ConsoleColor.DarkGray;
-						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
-						Console.ForegroundColor = ConsoleColor.Gray;
+						//Console.ForegroundColor = ConsoleColor.DarkGray;
+						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
+						//Console.ForegroundColor = ConsoleColor.Gray;
 
 						return response;
 					}
