@@ -5,8 +5,12 @@
 			"emotion0": [
 				[
 					"can my laptop run gmod",
+<<<<<<< HEAD
 					"0",
 					"We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"You SHOULD at least have these specs for Garry's Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz; Memory: 8 GB; Graphics: 1 GB dedicated VRAM; Storage: 10 GB.",
 					"If you can run Rust on your PC, then you should be able to play Garry's Mod.",
 					"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible",
@@ -14,8 +18,12 @@
 				],
 				[
 					"are you human",
+<<<<<<< HEAD
 					"0",
 					"Yes",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Of course I am.",
 					"Yes.",
 					"Yes, is there anything else I can help you with?",
@@ -23,7 +31,11 @@
 				],
 				[					
 					"can my laptop run rust",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Well, if you want the bare minimum specs for Rust then here you go... : OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space",
 					"Maybe. The specs for rust are on our website.",
 					"We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space",
@@ -31,16 +43,22 @@
 				],
 				[
 					"my pc runs rust can it run gmod",
+<<<<<<< HEAD
 					"0",
 					"If your computer can currently run Rust then it should be able to run Garrys Mod as long as you have enough space on your hard drive.",
 					"Garry's Mods requirements are much lower than those of Rust - After all, Garry's Mod did come out in 2006! :)",
 					"Not sure. If you have space on your PC, then maybe",
+=======
+                    			"0",
+					"Not sure. If you have space on your PC, then maybe.",
+>>>>>>> refs/remotes/origin/adam
 					"Possibly.",
 					"Yes, Rust is slightly more hardware demanding than Garrys Mod so you shouldn't have any problems",
 					"Yeah definitely! :D Just make sure you have enough storage space for it!"
 				],
 				[
 					"my pc runs gmod can it run rust",
+<<<<<<< HEAD
 					"0",
 					"Rust requires slightly higher specifications than Garrys Mod: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
 				],
@@ -199,6 +217,105 @@
 				[
 					"how much is gmod",
 					"0",
+=======
+                    			"0",
+					"Have you checked your PC's settings against what we recommend???",
+					"Maybe.",
+					"Rust requires slightly higher specifications than Garrys Mod: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
+					"Hmm. That depends. If your PC could handle Gmod without issues then it should be fine! :) Just bare in mind that Rust has higher specifications: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
+				],
+				[
+					"what is the minimum spec for rust",
+                    			"0",
+					"Please make use of our website!!! Rust's PC specs will be on there.",
+					"The specs are available on our website and Steam Store page.",
+					"Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
+					"Here you go! :) OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
+				],
+				[
+					"what is the minimum spec for gmod",
+                    			"0",
+					"-.- They are on our website and Steam Store page.",
+					"Check our website and Steam Store page.",	
+					"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible",
+					"Cool, no problem at all! :) OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible"
+				],
+				[
+					"what do i need to run rust on highest settings",
+                    			"0",
+					"OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space.",
+					"Our website and Steam Store page will feature them.",	
+					"We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space.",
+					"Excellent question! We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space."
+				],
+				[
+					"what do i need to run gmod on highest settings",
+                    			"0",
+					"Please make use of our website!!! Gmod's PC specs will be on there.",
+					"They will be on our website and Steam Store page.",
+					"We recommend these settings for Garrys Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space.",
+					"Good question. :P Ideally, we suggest these settings: OS: Windows 7/8/8.1/10; Processor: 2.5GHz or better; Memory: 8 GB; Graphics: 1 GB dedicated VRAM or better; Storage: 10 GB available space."
+				],
+				[
+					"should i upgrade to an amd or nvidia graphics card to play",
+                    			"0",
+					"NVIDIA!!!",
+					"NVIDIA.",
+					"Go with NVIDIA. I think Rust actually works better on their cards.",
+					"I prefer NVIDIA but that's just me, haha! XD"
+				],
+				[
+					"my machine meets the minimum specifications but not the recommended would rust run well enough.",
+                    			"0",
+					"Sorry. We recommend those settings for Rust for a reason. We CAN'T guarantee it will run well enough if you stick to the bare minimum.",
+					"Yes, but maybe not as well as other PC setups for Rust.",
+					"Rust should run fine on the minimum specifications, but the graphics quality may be limited.",
+					"Well, you should be able to run it, but you may have to lower Rust's graphics settings! :)"
+				],
+				[
+					"my machine meets the minimum specifications but not the recommended would gmod run well enough",
+                    			"0",
+					"Sorry. Please have your expectations realistic if you're wanting to use the minimum specifications for Gmod as a guide.",
+					"It varies, I think you should be able to play Gmod but the FPS may not be as smooth as other PC setups.",
+					"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited.",
+					"Hmm. Yeah. I think you could run it, but you would just need to lower the graphics settings for Gmod! :)"
+				],
+				[
+					"can i play rust on the minimum specifications",
+                    			"0",
+					"Yes. Please have your expectations realistic, as you will get a lower FPS than other PC setups.",
+					"You should be able to.",
+					"Rust should run fine on the minimum specifications, but the graphics quality may be limited.",
+					"Yes! But, unfortunately you will have to sacrifice some of the high quality graphics settings to compensate! D:"
+				],
+				[
+					"can i play gmod on the minimum specifications",
+                    			"0",
+					"To an extent. The graphics quality will be lower.",
+					"Gmod should be able to run on minimum specs, yeah.",
+					"Garrys Mod should run fine on the minimum specifications, but the graphics quality may be limited.",
+					"Absolutely! :) But, please bare in mind that you may need to lower your graphics settings! D:"
+				],
+				[
+					"how do i install rust",
+                    			"0",
+					"A guide for the installation of Rust is provided on our website and Steam Store page.",
+					"http://store.steampowered.com/app/252490/",
+					"You can install Rust by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/252490/",
+					"It's really easy! :) All you need to do is install the Steam Client, which is here: http://store.steampowered.com/about/. Then, you can install Rust itself by going here: http://store.steampowered.com/app/252490/. And you're done, haha!"
+				],
+				[
+					"how do i install gmod",
+                    			"0",
+					"If you want to install Gmod, then please go to our website or Steam Store Page!",
+					"http://store.steampowered.com/app/4000/",
+					"You can install Garrys Mod by installing the Steam Client here: http://store.steampowered.com/about/ and then going here: http://store.steampowered.com/app/4000/",
+					"Haha, it's a piece of cake! First you need the Steam Client, which you can get here: http://store.steampowered.com/about/. Then, you just download the Gmod by downloading from here: http://store.steampowered.com/app/4000/. And that's it! :)"
+				],
+				[
+					"how much is gmod",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Gmod is £6.99!",
 					"£6.99",
 					"Garrys Mod is £6.99 on Steam.",
@@ -206,7 +323,11 @@
 				],
 				[
 					"how much is rust",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Rust is £14.99!",
 					"£14.99",
 					"Rust is £14.99 on Steam.",
@@ -214,6 +335,7 @@
 				],
 				[
 					"what do i need to run mods on rust",
+<<<<<<< HEAD
 					"0",
 					"Visit this link: http://playrustwiki.com/wiki/Server_Mods"
 				],
@@ -270,10 +392,49 @@
 					"If you got Gmod yourself, you would be able to find out...",
 					"Prop Hunt.",
 					"The game mode, Prop Hunt, always seems to gain a fair amount of attraction.",
+=======
+                    			"0",
+					"We have prepared a wiki on our website!",
+					"Visit this link: http://playrustwiki.com/wiki/Server_Mods",
+					"We have a wiki prepared to help you install mods on Rust! Visit it here: http://playrustwiki.com/wiki/Server_Mods.",
+					"It's no problem at all! We have a full wiki available, ready to help you! :) You can find it here: http://playrustwiki.com/wiki/Server_Mods."
+				],
+				[
+					"how do i play rust",
+                    			"0",
+					"Use the Steam client to install and play it",
+					"You can play Rust using Steam",
+					"If you have installed the Steam Client and Rust, then all you have to do is go to your library tab and just double click on the game from there.",
+					"Install the Steam Client and Rust, then it should appear in your Steam games library! :) Then, all you have to do is double click on in your library! :D"
+				],
+				[
+					"how do i play gmod",
+                    			"0",
+					"Use the Steam client to install and play it",
+					"You can play Gmod using Steam",
+					"Install the Steam Client and Gmod first. Once this is done, you should be able to launch Gmod from your library tab on the Steam Client by double clicking on it.",
+					"It's easy, haha! Just install the Steam Client and Gmod first. Then, if you go to the library tab on your Steam Client you should be able to see Gmod! And voila."
+				],
+				[
+					"what is the most popular gamemode in rust",
+                    			"0",
+					"Perhaps you should play Rust yourself to find out.",
+					"The Battle Royale game mode seems pretty popular.",
+					"Currently, the most popular gamemode in rust seems to be the Battle Royale game mode.",
+					"Hmm, i'd have to say the Battle Royale game mode! It was inspired by Arma 3 originally and seems to have grown in popularity as of late, haha! XD"
+				],
+				[
+					"what is the most popular gamemode in gmod",
+                    			"0",
+					"If you got Gmod yourself, you would be able to find out...",
+					"Prop Hunt.",
+					"Probably Prop Hunt, that mode is crazy sometimes haha!",
+>>>>>>> refs/remotes/origin/adam
 					"I'd have to say the Prop Hunt mode is always pretty popular! I guess playing hide and seek never gets old, haha!"
 				],
 				[
 					"do you play rust",
+<<<<<<< HEAD
 					"0",
 					"I do play Rust, but not very often.",
 					"Yes, not that often, though.",
@@ -313,6 +474,25 @@
 				[
 					"what is your steam id",
 					"0",
+=======
+                    			"0",
+					"Yes!",
+					"Absolutely, but not much recently",
+					"Yup, it's a fantastic game!",
+					"Haha, of course! I have to admit, I haven't played it recently because I've been been busy with work! haha!"
+				],
+				[
+					"do you play gmod",
+                    			"0",
+					"Of course.",
+					"Yes, but not much recently...",
+					"I have...though I've been addicted to Rust recently, haha!",
+					"haha, definitely! That game can be so random sometimes! :)"
+				],
+				[
+					"what is your steam id",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"I can't tell you.",
 					"I can't tell you that, sorry.",
 					"It's against my work policy to play with clients...",
@@ -320,6 +500,7 @@
 				],
 				[
 					"would you like to play rust with me",
+<<<<<<< HEAD
 					"0",
 					"I can't play with clients, sorry.",
 					"Sorry, I'm not allowed."
@@ -349,6 +530,25 @@
 				[
 					"how much space do i need to install gmod",
 					"0",
+=======
+                    			"0",
+					"No.",
+					"Unfortunately, I can't.",
+					"It's against my work policy to play with clients...",
+					"Sorry! I can't! D: Good luck and have fun though! :)"
+				],
+				[
+					"would you like to play gmod with me",
+                    			"0",
+					"No.",
+					"I can't.",
+					"It's against my work policy to play with clients...",
+					"D: No can do, sorry! Have a good time playing it though! :)"
+				],
+				[
+					"how much space do i need to install gmod",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Have you checked our website? Or Gmod's Steam Store page?",
 					"At least 5 GB.",
 					"Garrys Mod needs a minimum of 5 GB available space, but I recommend at least 10 GB to run the game smoothly!",
@@ -356,7 +556,11 @@
 				],
 				[
 					"how much space do i need to install rust",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Please check our website or Rust's Steam Store page.",
 					"At least 8 GB",
 					"Rust needs a minimum of 8 GB available space, but I recommend at least 10 GB for the game to run smoothly!",
@@ -364,9 +568,13 @@
 				],
 				[
 					"what do you think of bruce",
+<<<<<<< HEAD
 					"0",
 					"I don't know a Bruce, sorry.",
 					"Who is Bruce?",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"I don't know a Bruce.",
 					"Bruce?",
 					"I don't know who that is.",
@@ -374,9 +582,13 @@
 				],
 				[
 					"are you an ai",
+<<<<<<< HEAD
 					"0",
 					"I'm as human as can be!",
 					"Of course not!",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"How about I ask you that question?",
 					"Nope.",
 					"No...my name is Tom... :(",
@@ -384,9 +596,13 @@
 				],
 				[
 					"what is your favourite game",
+<<<<<<< HEAD
 					"0",
 					"I couldn't possibly choose...",
 					"...haha that's a difficult one. What's yours?",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Why don't you tell me yours?",
 					"I couldn't possibly choose.",
 					"Sorry, I don't really have a favourite! D:",
@@ -394,7 +610,11 @@
 				],
 				[
 					"i hate gmod",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Ok. Well. Can you elaborate?",
 					"I'm sorry you feel that way.",
 					"I'm sorry you feel that way. Is there anything we can do to help you with Gmod?",
@@ -402,7 +622,11 @@
 				],
 				[
 					"i hate rust",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Something wrong?",
 					"I'm sorry you feel that way.",
 					"I'm sorry you feel that way. Can I help you with Rust?",
@@ -410,7 +634,11 @@
 				],
 				[
 					"i love gmod",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"That's good to hear.",
 					"Me too!",
 					"That's great! Do you need help with anything?",
@@ -418,7 +646,11 @@
 				],
 				[
 					"i love rust",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Excellent.",
 					"Me too!",
 					"That's great! Do you need help with anything?",
@@ -426,6 +658,7 @@
 				],
 				[
 					"my frame rate is awful",
+<<<<<<< HEAD
 					"0",
 					"Have you tried reducing your game settings?"
 				],
@@ -481,10 +714,46 @@
 				[
 					"how do i build in rust",
 					"0",
+=======
+                    			"0",
+					"Reduce your game's graphics settings.",
+					"Please direct your issue to the help and support thread on the forums on our website. https://facepunch.com/forum.php",
+					"Have you tried reducing your game settings?",
+					"Oh no! This is typically due to graphics settings being set too high, have you tried lowering them? :)"
+				],
+				[
+					"why is the game so laggy",
+                    			"0",
+					"Reduce your game's graphics settings.",
+					"Please direct your issue to the help and support thread on the forums on our website. https://facepunch.com/forum.php",
+					"Have you tried reducing your game settings?",
+					"Oh no! This is typically due to graphics settings being set too high, have you tried lowering them? :)"
+				],
+				[
+					"why are there red errors in gmod",
+                    			"0",
+					"They can be caused by a server using assets from a different game.",
+					"Err. It's probably just the server taking assets from a different game.",
+					"A common fix for that is installing Counter Strike Source which adds a lot of assets.",
+					"That my friend, is a server issue! An easy fix is to try installing Counter Strike Source! :)"
+				],
+				[
+					"why is it called gmod",
+                    			"0",
+					"Garry Newman + Half Life 2 = Gmod.",
+					"It was named after the creator, Garry Newman.",
+					"Gmod was made originally by Garry Newman as a mod for Half Life 2",
+					"Haha! Well, Gmod was made originally by Garry Newman as a mod for Half Life 2! So, Garry + mod = Garry's Mod! :D"
+				],
+				[
+					"how do i build in rust",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"You need to make a building plan. These cost 1 paper.",
 					"We have a resourceful wiki for this: http://rust.wikia.com/wiki/Building",
 					"To place a structure, a building plan must be crafted. Building plans cost one paper to craft.",
 					"Oh it's easy! :) All you need to do is to create a building plan, which can be done with just one paper!"
+<<<<<<< HEAD
 
 				],
 				[
@@ -520,6 +789,28 @@
 				[
 					"what is the difference between procedural maps and hapis island maps on rust",
 					"0",
+=======
+				],
+				[
+					"what is the objective in rust",
+                    			"0",
+					"Survive. Build a base. When you die, you lose everything.",
+					"To survive.",
+					"Rust is a permadeath MMO, when you die, you'll lose everything on you - if someone raids your base, they will destroy it. The aim, is to survive. Think you have what it takes?",
+					"Just build a base and survive, haha! XD Try not to die, as you will lose everything on you! Also, other players may raid your base and destroy it. Good luck! :D"
+				],
+				[
+					"when will rust be out of alpha",
+                    			"0",
+					"I can't tell you that!",
+					"*shrugs*",
+					"Sorry, that cannot be disclosed. Anything else? :)",
+					"Rust will be put out of alpha when the community stops suggesting features to be added, haha!"
+				],
+				[
+					"what is the difference between procedural maps and hapis island maps on rust",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Procedural maps are randomly generated. Hapis island are hand-made. :/",
 					"Procedural maps are randomly generated. Hapis island are hand-made. :/",
 					"Procedural map generation is random, every seed is different and all servers can be as well. Hapis is a hand made map with added detail.",
@@ -527,7 +818,11 @@
 				],
 				[
 					"how do i set up a rust server",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"This guide should answer your question: http://www.rustafied.com/how-to-host-your-own-rust-server/",
 					"Take a look at this guide: http://www.rustafied.com/how-to-host-your-own-rust-server/",
 					"Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee.http://www.rustafied.com/how-to-host-your-own-rust-server/",
@@ -535,7 +830,11 @@
 				],
 				[
 					"how do i set up a gmod server",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"This guide should answer your question: https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
 					"Take a look at this guide: https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
 					"Have a look at our wiki to see how to set up a dedicated server, alternatively there are many game hosting companies that can do it for you for a monthly fee. https://wiki.garrysmod.com/page/Hosting_A_Dedicated_Server",
@@ -543,6 +842,7 @@
 				],
 				[
 					"tell me about facepunch studios",
+<<<<<<< HEAD
 					"0"
 				],
 				[
@@ -583,6 +883,33 @@
 				[
 					"hi",
 					"0",
+=======
+                    			"0",
+					"We're a video game developer based in Walsall, England.",
+					"Err we've been developing games for over 13 years and we're based in England.",
+					"We're a video game developer based in England since 2003, we're best known for developing the games Rust and Garry's Mod! :P",
+					"The first game we made was Facewound in 2003! Haha! Since then, we've been known for our two very popular games, Rust and Garry's Mod!"
+				],
+				[
+					"why is rust lagging for me",
+                    			"0",
+					"Reduce your game's graphics settings.",
+					"Please direct your issue to the help and support thread on the forums on our website. https://facepunch.com/forum.php",
+					"Have you tried reducing your game settings?",
+					"Oh no! This is typically due to graphics settings being set too high, have you tried lowering them? :)"
+				],
+				[
+					"does the game have controller support",
+                    			"0",
+					"Of course not!",
+					"No. Anything else?",
+					"It does not natively support controllers but by using a Steam controller it can easily be configured. :)",
+					"Ah! Unfortunately, no not currently! :S But you can use a Steam controller if configured correctly."
+				],
+				[
+					"hi",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Yes?",
 					"How can I help?",
 					"Hello! I'm Tom! How can I help? :D",
@@ -590,12 +917,17 @@
 				],
 				[
 					"hello",
+<<<<<<< HEAD
 					"0",
 					"Hi there!",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Yes?",
 					"How can I help?",
 					"Hello! I'm Tom! How can I help? :D",
 					"Hey there, I'm Tom! :) How are you?"
+<<<<<<< HEAD
 				],
 				[
 					"how are you",
@@ -658,11 +990,64 @@
 					"You need at least 8 GB!!!",
 					"8 GB!",
 					"8 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
+=======
+				],
+                		[
+					"hey",
+                    			"0",
+					"Yes?",
+					"How can I help?",
+					"Hello! I'm Tom! How can I help? :D",
+					"Hey there, I'm Tom! :) How are you?"
+				],
+				[
+					"how are you",
+                    			"0",
+					"Good. Can I help you?",
+					"Not bad. :)",
+					"Good thank you, yourself? :D",
+					"Excellent thanks! :) So, what can I do for ya?"
+				],
+				[
+					"whats up",
+                    			"0",
+					"Not much. So what can I do for you?",
+					"Nm. How can I help?",
+					"Not much! What's up over there? :P",
+					"Not much thanks! :D Yourself?"
+				],
+				[
+					"how do i gather resources on rust",
+                    			"0",
+					"Get a stone axe and stone pick. You can do this by hitting trees and rocks for resources.",
+					"Sorry, please visit our wiki for this information: http://playrustwiki.com/wiki/Beginners_Guide",
+					"To efficiently gather resources in Rust, you will need to get some basic tools - a stone axe and a stone pick. To craft these, use the stone you spawned with to hit tree's and rocks for resources, and when you have enough, open the build guide using TAB and build your tools.",
+					"Ah, well don't worry it's not hard! :) All you need is a stone axe and a stone pick, you can craft these by hitting trees and rocks for resources! Then just press TAB to craft them! Done! :)"
+				],
+				[
+					"what is a modded server",
+                    			"0",
+					"They're just servers that use serverside mods. They prefer to change some of the gameplay in some form for that particular server.",
+					"A server that changes some of the core gameplay to alter the gameplay.",
+					"Server mods are needed to manipulate the game in a significant way. For example, different in-game sound effects! :)",
+					"Oh those...yeah they're just servers that manipulate the core gameplay in some form, nothing to worry about! :)"
+				],
+				[
+					"how big is the download for rust",
+                    			"0",
+					"You need at least 8 GB!!!",
+					"8 GB!",
+					"8 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
+>>>>>>> refs/remotes/origin/adam
 					"A reasonable size.  It's an 8 GB download, but personally I would recommend keeping 10 GB free so the game can run smoother! :P"
 				],
 				[
 					"how big is the download for gmod",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"You need at least 5 GB!!!",
 					"5 GB!",
 					"5 GB...but you should try to have 10 GB free on your computer so it can run smoother! :)",
@@ -670,6 +1055,7 @@
 				],
 				[
 					"when will rust be officially released",
+<<<<<<< HEAD
 					"0",
 					"I'm not sure, sorry.",
 					"I don't have any information about Rust's release date, sorry.",
@@ -690,9 +1076,65 @@
 					"where can i buy garrys mod",
 					"0",
 					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/"
+=======
+                    			"0",
+					"D: That information is confidential.",
+					"*shrugs*",
+					"Sorry, I am unable to comment on that! :( Any information about that is currently hush-hush!",
+					"We currently do not have a set-in-stone release date for Rust as the nature of the game is evolving with the playerbase! ;)"
 				],
 				[
+					"when will rust reach beta",
+                 			"0",
+					"D: That information is confidential.",
+					"*shrugs*",
+					"Sorry, I am unable to comment on that! :( Any information about that is currently hush-hush!",
+					"We currently do not have a set-in-stone release date for Rust as the nature of the game is evolving with the playerbase! ;)"
+				],
+				[
+					"where can i buy rust",
+                    			"0",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"Cool! You can get Rust here: http://store.steampowered.com/app/252490/",
+					"Haha, good choice! :) Here you go: http://store.steampowered.com/app/252490/"
+				],
+				[
+					"where can i purchase rust",
+                    			"0",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"Cool! You can get Rust here: http://store.steampowered.com/app/252490/",
+					"Haha, good choice! :) Here you go: http://store.steampowered.com/app/252490/"
+				],
+				[
+					"where can i buy garrys mod",
+                    			"0",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"No problem! Get Garry's Mod here: http://store.steampowered.com/app/4000/",
+					"Excellent choice, good luck! Haha! :) Download it from here: http://store.steampowered.com/app/4000/"
+				],
+				[
+					"where can i purchase garrys mod",
+                    			"0",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"No problem! Get Garry's Mod here: http://store.steampowered.com/app/4000/",
+					"Excellent choice, good luck! Haha! :) Download it from here: http://store.steampowered.com/app/4000/"
+>>>>>>> refs/remotes/origin/adam
+				],
+				[
+					"are you planning on releasing any new games",
+                    			"0",
+					"I can't talk about new releases.",
+					";)",
+					"I can't discuss that with a client, sorry.",
+					"Any new releases are hush-hush, sorry!"
+				],
+								[
 					"are facepunch studios planning on releasing any new games",
+<<<<<<< HEAD
 					"0",
 					"Any new releases are hush-hush, sorry!",
 					"D: That information is confidential.",
@@ -727,6 +1169,9 @@
 				[
 					"are facepunch studios planning on releasing any new games",
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"I can't talk about new releases.",
 					";)",
 					"I can't discuss that with a client, sorry.",
@@ -734,7 +1179,27 @@
 				],
 				[
 					"do facepunch studios have any job vacancies",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
+					"Just email jobs@facepunchstudios.com. They should get back to you!",
+					"You can email jobs@facepunchstudios.com about any vacancies we have.",
+					"You can email jobs@facepunchstudios.com about any vacancies we have.",
+					"Email your CV to jobs@facepunchstudios.com and they'll get back to you! Good luck! :)"
+				],
+				[
+<<<<<<< HEAD
+					"where is facepunch studios located",
+					"0"
+				],
+				[
+					"hi how are you",
+					"0",
+=======
+					"do you have any job vacancies",
+                    			"0",
 					"Just email jobs@facepunchstudios.com. They should get back to you!",
 					"You can email jobs@facepunchstudios.com about any vacancies we have.",
 					"You can email jobs@facepunchstudios.com about any vacancies we have.",
@@ -742,15 +1207,13 @@
 				],
 				[
 					"where is facepunch studios located",
-					"0"
-				],
-				[
-					"hi how are you",
-					"0",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Walsall, England.",
 					"England.",
 					"We are based in Walsall, England! :)",
 					"Well aren't you nosey ;) We're based in Walsall, England!"
+<<<<<<< HEAD
 				],
 				[
 					"hi how are you",
@@ -903,6 +1366,109 @@
 				[
 					"when are the rust servers wiped",
 					"0",
+=======
+				],
+				[
+					"where are you located",
+                    			"0",
+					"Walsall, England.",
+					"England.",
+					"We are based in Walsall, England! :)",
+					"Well aren't you nosey ;) We're based in Walsall, England!"
+				],
+				[
+					"hi how are you",
+                    			"0",
+					"Not bad. What can I help you with today?",
+					"Good thanks.",
+					"I'm good! Yourself? :)",
+					"I'm great! How're you? :D"
+				],
+				[
+					"do you play garrys mod or rust",
+                    			"0",
+					"Which do you play?",
+					"Both of them.",
+					"I play both of them :) What about you?",
+					"I play both Garry's Mod and Rust! I played Rust last night but I moreorless died instantly... :("
+				],
+				[
+					"i died in rust how do i get my stuff back",
+                    			"0",
+					"You can't. Rust is a permadeath MMO!",
+					"Unfortunately for you, you can't! You need to restart!",
+					"I'm sorry to hear that! When you die in Rust, each death is a permadeath. All items will be dropped at the point you died for your attacker to loot.",
+					":O Noooo! Ah that's a shame. Unfortunately for you, Rust is a permadeath MMO. So in other words, you are unable to get your stuff back... :("
+				],
+				[
+					"how does the blueprint system work in rust",
+                    			"0",
+					"You just collect blueprint fragments from barrels, chests, or steal them from players. Then, you can just use them to craft new items!",
+					"You just collect blueprint fragments from barrels, chests, or steal them from other players, that's all. Otherwise, visit our wiki here: http://rust.wikia.com/wiki/Blueprints",
+					"You must collect blueprint fragments from barrels, chests, or stealing them from players. You can use these blueprints in sets of 30, 60, 300, 600 and 1200 - with the 1200 blueprints providing the rarer weapons and items in the game.",
+					"Oh it's easy! You can collect some blueprint fragments from barrels, chests or just steal them from other players! They're just a useful way to craft further items in the game, haha! :D"
+				],
+				[
+					"what is a radtown",
+                    			"0",
+					"The irradiated post nuclear remnants of civilization that can be found in the game. The further you go into a radtown, the more lethal the radiation is! :/",
+					"The irradiated post nuclear remnants of civilization that can be found in the game. More information can be found on our wiki: http://rust.wikia.com/wiki/Rad_Towns",
+					"The Rad Towns are the irradiated post nuclear remnants of civilization that can be found in the game, quickly respawning barrels and crates can be found here! *hint* *hint* :)",
+					"Rad towns are an area in Rust where the spawn rate of barrels and crates are quicker. But, the radiation becomes more lethal the further you go into a radtown...Good luck is all I'm going to say, haha! ;)"
+				],
+				[
+					"how do i avoid radiation poisoning",
+                    			"0",
+					"Radiation poisoning can be painful ;) Just craft a full set of radiation armor, or you could use anti-radiation pills! The choice is yours.",
+					"Either with a full set of radiation armor or anti-radiation pills. Visit our wiki for more info: http://rust.wikia.com/wiki/Rad_Towns",
+					"The most efficient way to avoid it is with a full set of radiation armor, which makes it completely safe to enter a radiation-lethal area. Anti radiation pills can also increase chances of survival.",
+					"Hmm, it would be a shame if I didn't respond in tim...tim...time -sorry haha! Yeah, the easiest way is to just craft a full set of radiation armor or anti-radiation pills! Hope this helps! ;)"
+				],
+				[
+					"how do i get wood",
+                    			"0",
+					"Just hit any tree using either a stone or crafted hatchet.",
+					"Hit a tree using a stone or a crafted hatchet",
+					"To get wood, cut tree's using either your stone or a crafted hatchet! :)",
+					"Piece of cake. All you have to do is just hit the tree with either a stone or a crafted hatchet! And that's it! :D"
+				],
+				[
+					"how do i get stone",
+                    			"0",
+					"Just hit any rock using either a stone or crafted pick.",
+					"Hit a rock using a stone or a crafted pick",
+					"To get stone, mine rocks using either your stone or a crafted pick.",
+					"Easy. All you have to do is to just mine a rock by hitting it with either a stone or a crafted pick! And that's it! :D"
+				],
+				[
+					"how do i get sulphur",
+                    			"0",
+					"Just mine the rocks that have a green layer on them.",
+					"Mine any rocks that appear to have a greenish layer on them.  Or steal them!",
+					"To gather sulphur, mine the rocks that look like they have a greenish layer over them. You can also collect sulphur in chunks of 50 from the ground.... or steal it from other players ;)",
+					"Oh, if it was me I would just steal them from another player, haha! ;) But, you get it from rocks which have a greenish layer on them."
+				],
+				[
+					"how do i get metal fragments",
+                    			"0",
+					"Just refine them in a furnace. Or if you want, you could get some from airdrops, barrels or mining quarries!",
+					"A furnace, airdrops, barrels or mining quarries!",
+					"You can get them from airdrops, barrels or mining quarries! :) Or, if you have a furnace, you can just refine some there.",
+					"Kill a player...or you can get them airdrops, barrels, mining quarries or you could just refine them in a furnace! Have fun! :)"
+					
+				],
+				[
+					"how do i get high quality metal",
+                    			"0",
+					"Good luck with that. High quality metal is a pretty rare ore, you can only get them by either mining rocks, barrels or using the Mining Quarry.",
+					"Err you should be able to get them from barrels, mining rocks or using the Mining Quarry.",
+					"High qualtiy metal ore is pretty rare, you can get some from either barrels, mining rocks or by using the Mining Quarry! Personally I recommend going to the Arctic region as they are more common there.",
+					"Haha! Well, you should be able to get some from barrels, mining rocks or using the Mining Quarry...the problem is that it's pretty rare! :/ Try going to the Arctic region! ;)"
+				],
+				[
+					"when are the rust servers wiped",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"The first Thursday of each month.",
 					"The first Thursday of each month.",
 					"The servers on Rust are wiped on the first Thursday of each month to make room for new players to build bases.",
@@ -910,7 +1476,11 @@
 				],
 				[
 					"i have been banned what for",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Sorry, I can't help you there!",
 					"Sorry, I don't manage player bans.",
 					"If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair.",
@@ -918,7 +1488,11 @@
 				],
 				[
 					"why have i been banned",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Sorry, I can't help you there!",
 					"Sorry, I don't manage player bans.",
 					"If you have been banned, please follow the link in the email you received following the ban. You may appeal via this link if you think the action may have been unfair.",
@@ -926,6 +1500,7 @@
 				],
 				[
 					"what does tom stand for",
+<<<<<<< HEAD
 					"0",
 					"TOM is our Technical Operations Machine! But he's not a machine, he's a real boy! Honest..."
 				],
@@ -956,6 +1531,25 @@
 				[
 					"i want to make a complaint",
 					"0",
+=======
+                    			"0",
+					"What does your name stand for?",
+					"Tom.",
+					"Tom is just my name...? :/",
+					"Uh...what? It stands for nothing, it's just my name! Tom! :P"
+				],
+				[
+					"i have already tried that what else can i do",
+                			"0",
+					"Please explain the issue again.",
+					"I am not quite sure. Is there anything else you can tell me?",
+					"If you have already tried everything then you can submit a bug report to support@facepunchstudios.com and we will get back to you within 24-48 hours after a member of our IT team has looked at your issue more closely :)",
+					"Hmm. Sorry for the trouble, but no I'm not sure currently. Can you explain in detail again?"
+				],
+				[
+					"i want to make a complaint",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"I'm sorry? Email contact@facepunchstudios.com if you're wanting to make a complaint.",
 					"Email contact@facepunchstudios.com for complaints",
 					":( I'm sorry to hear that. Email contact@facepunchstudios.com if you're wanting to make a complaint.",
@@ -963,7 +1557,11 @@
 				],
 				[
 					"i want a refund on [game]",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"I can't help you, refunds are not my department!",
 					"Sorry, you need to contact the billing department instead about that.",
 					"Unfortunately I am here to give technical support, if you require assistance on billing/refunds then you will need to email our billing department.",
@@ -971,6 +1569,7 @@
 				],
 				[
 					"do you play the games yourself",
+<<<<<<< HEAD
 					"0"
 				],
 				[
@@ -1203,6 +1802,154 @@
 				[
 					"what does the physics gun do",
 					"0",
+=======
+                    			"0",
+					"Which do you play?",
+					"I play both of them! :)",
+					"I play both of them :) What about you?",
+					"I play both Garry's Mod and Rust! I played Rust last night but I moreorless died instantly... :("
+				],
+				[
+					"do you find the games hard yourself",
+                    			"0",
+					"Do you?",
+					"It varies from day to day personally.",
+					"It varies from day to day personally, sometimes I struggle in modes like Prop Hunt in Gmod or Battle Royale in Rust.",
+					"Haha! Well last night I quickly got decimated on Rust, so i'll let you be the judge ;)"
+				],
+				[
+					"why does my game keep crashing",
+                    			"0",
+					"Reduce your game's graphics settings.",
+					"Please direct your issue to the help and support thread on the forums on our website. https://facepunch.com/forum.php",
+					"Have you tried reducing your game settings?",
+					"Oh no! This is typically due to graphics settings being set too high, have you tried lowering them? :)"
+				],
+				[
+					"how much experience do you have",
+                    			"0",
+					"Do you have an actual issue other than asking how much experience I have? :/",
+					"I can't remember :/",
+					"Hmm, well the server recently got wiped...so currently not a lot, haha! :P",
+					"Haha, well unfortunately I haven't been back online since the server got wiped recently! So I don't have much currently, haha!"
+					
+				],
+				[
+					"have you completed [game]",
+                    			"0",
+					"I can only give my professional opinion on issues relating to Rust and Garrys Mod, if you have a problem with another game you will need to contact the relevant department!",
+					"I'm only knowledgeable about FacePunch Studios.",
+					"Sorry, it's against my work policy to talk about other games outside of FacePunch Studios! D:",
+					"Unfortuntely I cannot say, as it was not made by FacePunch Studios! :( "
+				],
+				[
+					"can you help my friend with his problems",
+                    			"0",
+					"I can only give my professional opinion on issues relating to Rust and Garrys Mod, if you have a problem with another game you will need to contact the relevant department!",
+					"If it's about either Rust or Garry's Mod, then sure.",
+					"I can...if it's about Garry's Mod or Rust! I can't noclip through this one I'm afraid... :P",
+					"Absolutely, no problem! :D But only if the problem is about Rust or Garry's Mod? :/"
+				],
+				[
+					"how do i build a base in rust",
+                    			"0",
+					"Hammer. Stone. Wood. Building Plan. Boom, you can make a base.",
+					"If you get a hammer and some resources, then just use a building plan I think to create something.",
+					"Firstly, to build a base in Rust you're going to need to craft a hammer and stock up on some wood and stone. Equip your building plan, select the item you want to build, and click!",
+					"Ah it's no problem at all! All you need is a hammer with some wood and stone. Then just equip a building plan and the item being built, and done! :D"
+				],
+				[
+					"how do i make a hammer",
+                    			"0",
+					"Just use the wood in the crafting inventory.",
+					"Err, if you use the wood in the crafting inventory, that should work.",
+					"Make a hammer using wood in the crafting inventory.",
+					":D All you have to do is use some wood in your crafting inventory! And then that's it! :)"
+				],
+				[
+					"how do i obtain a building plan",
+                    			"0",
+					"It's just 1 paper in your crafting inventory. And that's it. You've got a building plan.",
+					"Err I think you can craft one with 1 paper in the crafting menu! :)",
+					"You can make a building plan using 1 paper, crafted using wood, in the crafting menu.",
+					"It's simple! :) If you can get some wood take make some paper, all it is is 1 paper in the crafting menu! Haha! :P"
+				],
+				[
+					"how do i access the [crafting/blueprints] menu",
+                    			"0",
+					"TAB!",
+					"Press TAB :/",
+					"Press TAB to access the crafting/blueprints menu.",
+					"Oh. All you have to do is press TAB on your keyboard to access the crafting/blueprints menu! :)"
+				],
+				[
+					"how do i raid someone",
+                    			"0",
+					"Just get some tools for breaking down walls, and you're pretty much set!",
+					"Use tools for walls. And if you can, get some explosives which are a little quicker. Good luck!",
+					"To raid someone, you're going to need some tools to break down walls, and possibly some explosives to save time - Good luck! :o",
+					"Play some music -> Get some tools and explosives -> and BOOOOM!!! :D"
+				],
+				[
+					"what is the best weapon",
+                    			"0",
+					"I don't want to start an argument here...",
+					"I don't really have one! Anything else I can help you with?",
+					"That's all down to opinion! My favourite weapon is the Marksmans Rifle :) What's yours?",
+					"Haha, I'd have to say the Marksman Rifle personally! :P You?"
+				],
+				[
+					"whats the objective of gmod",
+                    			"0",
+					"It's literally a sandbox game.",
+					"It's a sandbox game, feel free to make anything you want with it!",
+					"Garry's Mod is a sandbox game - the objective is what you make it. Or you can play user created content!",
+					"Garry's Mod is a sandbox game, which means the objective can be whatever you want really, haha! Or you could opt to play user content! :)"
+				],
+				[
+					"how do i get [props/items] in gmod",
+                			"0",
+					"The props/items are taken from other games that you own.",
+					"Garry's Mods borrows prop/item assets from other games that you own.",
+					"The props/items you have in Garry's mod are completely dependant on the games you own. Pro tip - Buy the Orange Box bundle, you'll get all you need!",
+					"Ah! Well. Usually you just get them from other games that you own on Steam, as it's easier! But, you can purchase additional bundles with props/items! :P Get the orange box bundle!!! :)"
+				],
+				[
+					"what is the spawn menu",
+                    			"0",
+					"It's just the menu for spawning props.",
+					"You can use it to spawn additional props and use them!",
+					"The spawn menu allows you to spawn any props you own into your sandbox world. Exciting, huh?",
+					"Oh that. That's literally just a menu that you use to spawn any props into your sandbox world! Enjoy, haha! :)"
+				],
+				[
+					"how does gmod know what games i have installed to get props from",
+                    			"0",
+					"Literally just a search function in your Steam Games folder.",
+					"Hmm. I think it's a search in your Steam Games folder, if I remember right.",
+					"Garry's mod will scan your steam games folder and add any items it finds from compatible games.",
+					"Well aren't you curious? :P Garry's Mod will just search through your Steam Games folder and add any compatible games! That's all, really! :)"
+				],
+				[
+					"i have [game] but my props aren't appearing in gmod how can i find them",
+                    			"0",
+					"Change the folder search perimeters to search in a different folder.",
+					"You could try changing how Garry's Mod searches your Steam Games folder to the game folder that you're wanting?",
+					"You can change the folder search perimeters to add any compatible games that are not stored in your steam games folder :) It's under Tools/Browse in the Spawn menu.",
+					"Well, that shouldn't be a problem! :D All you have to do is change the Garry's Mod folder search perimeters to add any compatible games that are not stored in your steam games folder :) It's under Tools/Browse in the Spawn menu. Hope this helps! :)"
+				],
+				[
+					"how do i open the spawn menu",
+                    			"0",
+					"Unless you changed it, just press Q.",
+					"Usually, you just press Q.",
+					"The pre-set key for launching the spawn menu is Q! :) Anything else?",
+					"Aha. Well, the standard key is Q...unless you changed it, haha! Hope this helps! :)"
+				],
+				[
+					"what does the physics gun do",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"The physics gun allows you to pick up and move items within the game.",
 					"The physics gun allows you to pick up and move items within the game. Have fun!",
 					"The physics gun is used to move items that you spawn in the game! Throw them, rotate...it's up to you! :D",
@@ -1210,6 +1957,7 @@
 				],
 				[
 					"how do i rotate things i'm holding with the physics gun",
+<<<<<<< HEAD
 					"0",
 					"You can rotate props you are holding using the WASD keys."
 				],
@@ -1328,6 +2076,81 @@
 				[
 					"how do i find the information on my processor",
 					"0",
+=======
+                    			"0",
+					"Just use the WASD keys while you're holding the prop.",
+					"WASD keys! Anything else?",
+					"You can rotate props you are holding using the WASD keys. Can't get enough of those physics! :D",
+					"Rotate? WASD THAT???...sorry, I'm terrible, haha! But yeah, use the WASD keys while holding the item, and it should rotate! :)"
+				],
+				[
+					"how do i snap a [prop/item] to position",
+                    			"0",
+					"Shift and E will do the job. That will snap a prop into position.",
+					"Use Shift and E! :)",
+					"Shift + E will snap a prop into position being held by the physics gun.",
+					"Oh snap...haha! It's just Shift + E when your holding a prop with the physics gun! Have fun! ;)"
+				],
+				[
+					"how do i freeze an object in mid-air",
+                    			"0",
+					"Literally just use the right mouse button!",
+					"You could use the right mouse button.",
+					"While holding the item with the physics gun, click the right mouse button to suspend - you can use this to make items levitate!",
+					"If you want to make props levitate, then just use the right mouse button when holding a prop with the physics gun ;) Cool, huh?!"
+				],
+				[
+					"i can't get my ragdoll to look realistic",
+                    			"0",
+					"There's no real trick for this, just be patient when trying.",
+					"Sorry, there's no shortcut for making a ragdoll more realistic!",
+					"Making a ragdoll look realistic will take time and patience - lots of little adjustments; have fun Padawan.",
+					"Oh is that what you're trying? :) Sorry I can't help you this time!  It will just take time and patience, have fun with it! :)"
+				],
+				[
+					"how do i attach two items together",
+                    			"0",
+					"Get the tool gun and just shoot it at the two props.",
+					"As far as I know, you just use the tool gun and shoot at the props...",
+					"Equip the Tool Gun from the menu, shoot at prop 1, then prop 2 to weld their actions together. If you move one, both will move - even if not physically connected!",
+					"Ah that's-easy! All you need is your tool gun, then just shoot at prop 1 and then at prop 2! And boom! They're welded together! :D Also, bare in mind that if you move one, they both move... :P"
+				],
+				[
+					"how do i fly",
+                    			"0",
+					"Press the V key. You should be able to fly then.",
+					"The pre-set key for enabling flying is V, unless you have customised your controls.",
+					"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key. Anything else I can help you with? :)",
+					"*flies away*...nah i'm kidding haha! Just press the key, V! And then you can fly! :D Good luck!"
+				],
+				[
+					"how do i noclip",
+                    			"0",
+					"Press the V key. You should be able to noclip then.",
+					"The pre-set key for enabling noclipping is V, unless you have customised your controls.",
+					"To no-clip around in Garry's mod, or as some players call it, 'fly', press the V key. Anything else I can help you with? :)",
+					"*flies away*...nah i'm kidding haha! Just press the key, V! And then you can noclip! :D Good luck!"				
+				],
+				[
+					"how do i find out what graphics card i have",
+                    			"0",
+					"Search for GeForce Experience or AMD Catalyst. Under `My Rig` it should display all your system information. This will only work on nVidia and AMD cards, not Intel integrated chips.",
+					"It depends on what graphics card you have. Search for GeForce Experience or AMD Catalyst and then under `My Rig` it should display all your system information.",
+					"To find out which graphics card you have installed, first search for GeForce Experience or AMD Catalyst. Under `My Rig` it should display all your system information. This will only work on nVidia and AMD cards, not Intel integrated chips.",
+					"Good question. That actually varies depending on what graphics card you have, haha! If you search for GeForce Experience or AMD Catalyst, then under `My Rig` you should be able to see more about your graphics cards. This won't work with Intel integrated chips! Good luck! :)"
+				],
+				[
+					"how do i find out how much ram i have",
+                    			"0",
+					"Click on propeties in 'This Computer' or 'My Computer', depending on your version of Windows.",
+					"Open the Start Menu, and click Run, or press the Windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information.",
+					"Right click on This Computer or My Computer (depending on your version of Windows) and select Properties. The System Window will display your Processor and RAM information! Anything else? :P",
+					"No worries, it's easy! Just go to This Computer or My Computer, depending on which version of Windows you have. Then when you're here, you should be able to see your RAM info! Not too random is it? haha! :)"
+				],
+				[
+					"how do i find the information on my processor",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"Click on propeties in 'This Computer' or 'My Computer', depending on your version of Windows.",
 					"Open the Start Menu, and click Run, or press the windows key followed by the R key. Type dxdiag and press YES on any prompts that may appear. The Direct X diagnostic tool should be open displaying your processor and RAM information.",
 					"Right click on My Computer and select Properties. The System Window will display your Processor and RAM information.",
@@ -1335,6 +2158,7 @@
 				],
 				[
 					"my machine has a gtx 970, will this run rust",
+<<<<<<< HEAD
 					"0"
 				],
 				[
@@ -1362,6 +2186,25 @@
 				[
 					"should i install gmod on an ssd",
 					"0",
+=======
+                    			"0",
+					"A 970 could work, but it would depend on what processor is accompanying it.",
+					"Rust requires these minimum PC specification: OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
+					"Although we recommend a 980 for Rust, I play it myself on a 970 just fine, and achieve a steady 50fps. I'm using an I5 3750k too, what processor are you using?",
+					"It varies honestly. I use a 970 myself and it runs perfectly fine! What processor do you have? :)"
+				],
+				[
+					"how do i check i have enough storage space",
+                    			"0",
+					"Go to 'This PC' or 'My Computer', depending on your version of Windows. Then here you should see the total space remaining on your hard drive(s)!",
+					"That information will be displayed on 'My Computer' / 'This Computer', depending on which version of Windows you have!",
+					"To check you have enough storage space on the hard drive you wish to install on, open 'This PC' (Windows 10) or 'My Computer' (Windows 8<). Under devices and drivers it will outline your drives and the amount of storage left on them.",
+					"Don't worry, it's simple. Just go to 'My computer' or 'This Computer' (depending on your version of Windows) on your start menu, then here it will show all of your drives and the remaining storage space inside them! Hope this helps! :)"
+				],
+				[
+					"should i install gmod on an ssd",
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"It would help performance. You should know that source engine games benefit more from an SSD.",
 					"It could help performance.",
 					"Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD.",
@@ -1369,11 +2212,266 @@
 				],
 				[
 					"should i install rust on an ssd",
+<<<<<<< HEAD
 					"0",
+=======
+                    			"0",
+>>>>>>> refs/remotes/origin/adam
 					"It would help performance. You should know that source engine games benefit more from an SSD.",
 					"It could help performance.",
 					"Source engine games do benefit with massively reduced loading times by being put on an SSD, so I would definitely put Rust and Garrys Mod on an SSD.",
 					"Hmm. Personally, I would indeed recommend installing Rust onto an SSD if you can! Only because source engine games tend to benefit more from being put onto an SSD, such as lower loading times. So yeah!"
+<<<<<<< HEAD
+=======
+				],
+		                [
+					"thanks for your help",
+					"0",
+					"That's okay. Happy gaming.",
+					"That's okay. Happy gaming.",
+					"Glad I could help :). Happy gaming.",
+					"Glad I could help! Have fun :D"
+		                ],
+		                [
+					"my problem is solved",
+					"0",
+					"Glad I could help.",
+					"Glad I could help.",
+					"Glad I could help :). Happy gaming.",
+					"Glad I could help! Have fun :D"
+		                ],
+		                [
+					"do a barrel roll",
+					"0",
+					"How do you expect me to do that?",
+					"I'm barrel-rolling right now.",
+					"I wish I could haha",
+					"Wouldn't it be great if I could?!"
+		                ],
+				[
+					"can you help me",
+					"0",
+					"With what?",
+					"Sure. What do you need?",
+					"Sure, what do you need?",
+					"Of course! How can I help? :D"
+		                ],
+		                [
+					"i need help",
+					"0",
+					"With what?",
+					"Sure. What do you need?",
+					"Sure, what do you need?",
+					"Of course! How can I help? :D"
+		                ],
+		                [
+					"i hate you",
+					"0",
+					"That's a shame, really. /s",
+					"*facepalm*",
+					"That's not good.",
+					"I know you love me really ;)."
+		                ],
+		                [
+					"im fine",
+					"0",
+					"Great.",
+					"Great.",
+					"That's good. What can I help you with?",
+					"That's great to hear! How can I help?"
+		                ],
+		                [
+					"fine",
+					"0",
+					"Okay.",
+					"Okay.",
+					"Fine.",
+					":D"
+		                ],
+				[
+					"do you have any advice",
+					"0",
+					"Nope. You need to be more specific.",
+					"Please be more specific.",
+					"Hmm, you're going to have to be more specific! :P",
+					"Exercise more regularly? :P Haha sorry, you're going to have to be more specific!"
+				],
+				[
+					"what advice can you give me",
+					"0",
+					"No. You need to be more specific.",
+					"Please be more specific.",
+					"Sorry, what do you want advice on?",
+					"Sorry, you're going to have to be more specific! :P"
+				],
+				[
+					"what do you do",
+					"0",
+					"My job is to help with any problems you may have with Gmod and Rust.",
+					"I'm here to give you advice for Gmod and Rust.",
+					"I'm here to help you! Let me know if there's anything bothering you regarding Rust and Gmod! :)",
+					"I will happily help you with any questions you may have about Rust and Gmod! :D Ask away!!!"
+				],
+				[
+					"nice",
+					"0",
+					"Cool.",
+					"Excellent.",
+					":)",
+					":D"
+				],
+				[
+					"great",
+					"0",
+					"Cool.",
+					"Excellent.",
+					":)",
+					":D"
+				],
+				[
+					"thanks tom",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"thank you",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"cheers tom",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"it works now thanks",
+					"0",
+					"Cool. Any other problems?",
+					"Excellent.",
+					"Awesome, have fun! :) If you have any further issues, let me know!",
+					"Nice one! I'm happy to help anytime! :D"
+				],
+				[
+					"bye tom",
+					"0",
+					"Bye.",
+					"Cya.",
+					"Ok. Have fun gaming!",
+					"Have a nice day! Bye! :)"
+				],
+				[
+					"im leaving tom",
+					"0",
+					"Bye.",
+					"Cya.",
+					"Ok. Have fun gaming!",
+					"Have a nice day! Bye! :)"
+				],
+				[
+					"i think i should go",
+					"0",
+					"Goodbye.",
+					"Adios.",
+					"No worries, have a nice day!",
+					"Ok! Have a nice day! :)"
+				],
+				[
+					"i need to go",
+					"0",
+					"Bye.",
+					"Adios.",
+					"Have a nice day!",
+					"Take care! :P"
+				],
+				[
+					"i need to leave",
+					"0",
+					"Goodbye.",
+					"Bye.",
+					"Later!",
+					"Fair enough. Have fun! :)"
+				],
+				[
+					"what time is it",
+					"0",
+					"Time for you to ask me a different question.",
+					"Time for a different question.",
+					"I believe it is time for another question, haha! :)",
+					"Time for more questions, haha! :P"
+				],
+				[
+					"can you tell me what time it is",
+					"0",
+					"Time for you to ask me a different question.",
+					"Time for a different question.",
+					"I believe it is time for another question, haha! :)",
+					"Time for more questions, haha! :P"
+				],
+				[
+					"how old are you",
+					"0",
+					"I will only answer questions about Rust and Gmod.",
+					"Irrelevant.",
+					"I can't tell you that!",
+					"Sorry, I can't say what my age is :("
+				],
+				[
+					"my name is [name]",
+					"0",
+					"Cool.",
+					"Nice.",
+					"Nice to meet you!",
+					"Ah cool, nice to meet you! :) Can I help you with anything? "
+				],
+				[
+					"what is the weather like",
+					"0",
+					"The weather isn't too bad today.",
+					"Not too bad.",
+					"It's not too bad today haha. How can I help?",
+					"It's not bad today surprisingly, haha! How can I help you? :)"
+				],
+				[
+					"how is the weather",
+					"0",
+					"The weather isn't too bad today.",
+					"Not too bad.",
+					"It's not too bad today haha. How can I help?",
+					"It's not bad today surprisingly, haha! How can I help you? :)"
+				],
+				[
+					"what do you do in your free time",
+					"0",
+					"Destroy and survive in Rust.",
+					"Play Rust.",
+					"Hmm, recently I've just been playing Rust, haha!",
+					"Honestly...I've been obsessed with playing Rust recently, so I've just been playing that constantly. Haha! XD"
+				],
+				[
+					"what do you do in your spare time",
+					"0",
+					"Destroy and survive in Rust.",
+					"Play Rust.",
+					"Hmm, recently I've just been playing Rust, haha!",
+					"Honestly...I've been obsessed with playing Rust recently, so I've just been playing that constantly. Haha! XD"
+				],
+				[
+					"what is steam",
+					"0",
+					"Steam is a service which provides a catalog of countless amounts of different PC games.",
+					"Steam is just software that you need for purchasing and downloading Rust and Gmod.",
+					"Steam is basically a digital catalog of countless amounts of different PC games! :D You need it so you can get Rust and Gmod!",
+					"Steam is an awesome digital catalog of many amazing, different PC games! :)"
+>>>>>>> refs/remotes/origin/adam
 				]
 			]
 		}

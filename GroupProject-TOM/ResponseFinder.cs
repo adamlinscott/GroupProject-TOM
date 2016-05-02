@@ -46,6 +46,10 @@ namespace GroupProject_TOM
 			if( input != "" && input != null)
 			{
 				input = input.ToLower();
+				if(input[input.Length - 1] == '?' || input[input.Length - 1] == '.' || input[input.Length - 1] == '!')
+				{
+					input = input.Substring(0, input.Length - 2);
+				}
 				int matchedArrayIndex = 0;
 				int highScore = 0;
 				var responses = JsonParser.Deserialize(JSON);
@@ -53,7 +57,14 @@ namespace GroupProject_TOM
 				{
 					try
 					{
+						
+
 						int quesScore = 0;
+						if (responses.payload.category0.emotion0[i][0] == input)
+						{
+							quesScore = 99999999;
+						}
+
 						if (AnyKeywordMatch(input, responses.payload.category0.emotion0[i][0], "gmod", "garrys mod", "garry's mod", "rust"))
 						{
 							quesScore += 500;
@@ -101,10 +112,15 @@ namespace GroupProject_TOM
 					{
 						Random rand = new Random();
 						string response = null;
-						while(response == null)
+						//Console.ForegroundColor = ConsoleColor.DarkGray;
+						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
+						//Console.ForegroundColor = ConsoleColor.Gray;
+						int i = 0;
+						while(response == null && i < 20)
 						{
 							try
 							{
+<<<<<<< HEAD
 								int responseID = emotion;
 								if (responseID != lastResponseID)
 								{
@@ -117,12 +133,21 @@ namespace GroupProject_TOM
 									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
 								}
 
+=======
+								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(2,4)];
+>>>>>>> refs/remotes/origin/adam
 							}
 							catch
 							{
 								response = null;
 							}
+							i++;
 						}
+						if(response == null)
+						{
+							response = responses.payload.category0.emotion0[matchedArrayIndex][2];
+						}
+<<<<<<< HEAD
 <<<<<<< HEAD
 						//Console.ForegroundColor = ConsoleColor.DarkGray;
 						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
@@ -139,21 +164,32 @@ namespace GroupProject_TOM
 							emotion = 2;
 						else if (emotion > 9)
 							emotion = 9;
+=======
+>>>>>>> refs/remotes/origin/adam
 
 						return response;
 					}
 					else
 					{
+						//Console.ForegroundColor = ConsoleColor.DarkGray;
+						//Console.WriteLine("NO_VIABLE_RESPONSE");
+						//Console.ForegroundColor = ConsoleColor.Gray;
 						return "NO_VIABLE_RESPONSE";
 					}
 				}
 				catch
 				{
+					//Console.ForegroundColor = ConsoleColor.DarkGray;
+					//Console.WriteLine("NO_RESPONSE_IN_JSON");
+					//Console.ForegroundColor = ConsoleColor.Gray;
 					return "NO_RESPONSE_IN_JSON";
 				}
 			}
 			else
 			{
+				//Console.ForegroundColor = ConsoleColor.DarkGray;
+				//Console.WriteLine("NO_INPUT");
+				//Console.ForegroundColor = ConsoleColor.Gray;
 				return "NO_INPUT";
 			}
 		}
