@@ -120,7 +120,6 @@ namespace GroupProject_TOM
 						{
 							try
 							{
-<<<<<<< HEAD
 								int responseID = emotion;
 								if (responseID != lastResponseID)
 								{
@@ -133,9 +132,7 @@ namespace GroupProject_TOM
 									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
 								}
 
-=======
 								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(2,4)];
->>>>>>> refs/remotes/origin/adam
 							}
 							catch
 							{
@@ -147,25 +144,19 @@ namespace GroupProject_TOM
 						{
 							response = responses.payload.category0.emotion0[matchedArrayIndex][2];
 						}
-<<<<<<< HEAD
-<<<<<<< HEAD
 						//Console.ForegroundColor = ConsoleColor.DarkGray;
 						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
 						//Console.ForegroundColor = ConsoleColor.Gray;
-=======
 						lastQuestion = responses.payload.category0.emotion0[matchedArrayIndex][0];
 						Console.ForegroundColor = ConsoleColor.DarkGray;
 						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
 						Console.ForegroundColor = ConsoleColor.Gray;
->>>>>>> refs/remotes/origin/adam
 
 						emotion += Convert.ToInt32(responses.payload.category0.emotion0[matchedArrayIndex][1]);
 						if (emotion < 2)
 							emotion = 2;
 						else if (emotion > 9)
 							emotion = 9;
-=======
->>>>>>> refs/remotes/origin/adam
 
 						return response;
 					}

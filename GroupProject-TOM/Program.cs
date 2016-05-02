@@ -55,16 +55,6 @@ namespace GroupProject_TOM
             }
         }
 
-<<<<<<< HEAD
-=======
-        static void DelayOutput(string Output) //Delays outputs based on the number of chars in string
-        {                                      //Also adds "Tom is typing..." and removes it using ClearTyping()
-            int num = Output.Length;
-            num = num * 95;
-            Console.WriteLine("Tom is typing...");
-            Thread.Sleep(num);
-            ClearTyping();
-        }
 
         static void ClearTyping() //Clears "Tom is typing" in DelayOutput()
         {
@@ -75,7 +65,6 @@ namespace GroupProject_TOM
 
 		static int noResponseCounter = 0;
 
->>>>>>> refs/remotes/origin/adam
         static void Chat() //Main chat function
         {
             List<string> UserInput = new List<string>();
@@ -107,10 +96,8 @@ namespace GroupProject_TOM
                     UserInput.Add(Current);                                        
                     string delay = responses.ToString();
                     DelayOutput(delay);
-<<<<<<< HEAD
                     Console.WriteLine("Tom: {0}", responses.GetResponse(Current)); 
                     Chat();                    
-=======
 					string thisResponse = responses.GetResponse(Current);
 					string[] viableResponse = { "Sorry, I don't quite understand. Can you please re-word that?", "Sorry, I still don't understand.", "Sorry, I'm not sure how to answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?"};
 					string[] noResponse = { "Sorry, I'm not sure i can help with that. Is there anything else I can help with?", "Sorry, I can't answer that.  Can i help you with anything else?", "Sorry, I can't answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?" };
@@ -140,7 +127,6 @@ namespace GroupProject_TOM
 					Console.WriteLine(thisResponse);
                     Chat();
                     //return;
->>>>>>> refs/remotes/origin/adam
                 }
             }
         }
@@ -190,12 +176,6 @@ namespace GroupProject_TOM
             Console.BackgroundColor = ConsoleColor.White;
         }
 
-        static void ClearTyping() //Clears "Tom is typing" in DelayOutput()
-        {
-            Console.SetCursorPosition(0, Console.CursorTop - 1);
-            Console.Write(new string(' ', Console.WindowWidth));
-            Console.SetCursorPosition(0, Console.CursorTop - 1);
-        }
 
         static void FormatInput(string Input) //Formats user input
         {
