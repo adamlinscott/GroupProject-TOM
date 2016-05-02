@@ -73,6 +73,8 @@ namespace GroupProject_TOM
             Console.SetCursorPosition(0, Console.CursorTop - 1);
         }
 
+		static int noResponseCounter = 0;
+
         static void Chat() //Main chat function
         {
             List<string> UserInput = new List<string>();
@@ -92,7 +94,33 @@ namespace GroupProject_TOM
                     UserInput.Add(Current);                                        
                     string delay = responses.ToString();
                     DelayOutput(delay);
-                    Console.WriteLine(responses.GetResponse(Current));
+					string thisResponse = responses.GetResponse(Current);
+					string[] viableResponse = { "Sorry, I don't quite understand. Can you please re-word that?", "Sorry, I still don't understand.", "Sorry, I'm not sure how to answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?"};
+					string[] noResponse = { "Sorry, I'm not sure i can help with that. Is there anything else I can help with?", "Sorry, I can't answer that.  Can i help you with anything else?", "Sorry, I can't answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?" };
+					switch (thisResponse)
+					{
+						case "NO_VIABLE_RESPONSE":
+							thisResponse = viableResponse[noResponseCounter];
+							noResponseCounter++;
+							if (noResponseCounter >= 3)
+							{
+								noResponseCounter = 0;
+							}
+							break;
+						case "NO_RESPONSE_IN_JSON":
+							thisResponse = noResponse[noResponseCounter];
+							noResponseCounter++;
+							if (noResponseCounter >= 3)
+							{
+								noResponseCounter = 0;
+							}
+							break;
+						case "NO_INPUT":
+							break;
+						default:
+							break;
+					}
+					Console.WriteLine(thisResponse);
                     Chat();
                     //return;
                 }
