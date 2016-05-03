@@ -62,7 +62,7 @@ namespace GroupProject_TOM
 						int quesScore = 0;
 						if (responses.payload.category0.emotion0[i][0] == input)
 						{
-							quesScore = 99999999;
+							return responses.payload.category0.emotion0[i][2];
 						}
 
 						if (AnyKeywordMatch(input, responses.payload.category0.emotion0[i][0], "gmod", "garrys mod", "garry's mod", "rust"))
@@ -110,7 +110,6 @@ namespace GroupProject_TOM
 				{
 					if(highScore >= threshold)
 					{
-						Random rand = new Random();
 						string response = null;
 						//Console.ForegroundColor = ConsoleColor.DarkGray;
 						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
@@ -120,19 +119,12 @@ namespace GroupProject_TOM
 						{
 							try
 							{
-								int responseID = emotion;
+								int responseID = i;
 								if (responseID != lastResponseID)
 								{
 									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
+									lastResponseID = responseID;
 								}
-
-								responseID = rand.Next(2, 9);
-								if (responseID != lastResponseID)
-								{
-									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
-								}
-
-								response = responses.payload.category0.emotion0[matchedArrayIndex][rand.Next(2,4)];
 							}
 							catch
 							{
@@ -144,19 +136,10 @@ namespace GroupProject_TOM
 						{
 							response = responses.payload.category0.emotion0[matchedArrayIndex][2];
 						}
+						lastQuestion = responses.payload.category0.emotion0[matchedArrayIndex][0];
 						//Console.ForegroundColor = ConsoleColor.DarkGray;
 						//Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
 						//Console.ForegroundColor = ConsoleColor.Gray;
-						lastQuestion = responses.payload.category0.emotion0[matchedArrayIndex][0];
-						Console.ForegroundColor = ConsoleColor.DarkGray;
-						Console.WriteLine(responses.payload.category0.emotion0[matchedArrayIndex][0]);
-						Console.ForegroundColor = ConsoleColor.Gray;
-
-						emotion += Convert.ToInt32(responses.payload.category0.emotion0[matchedArrayIndex][1]);
-						if (emotion < 2)
-							emotion = 2;
-						else if (emotion > 9)
-							emotion = 9;
 
 						return response;
 					}
@@ -185,6 +168,20 @@ namespace GroupProject_TOM
 			}
 		}
 
+		void changeEmotion(string s)
+		{
+			int i = Convert.ToInt32(s);
+			emotion += i;
+
+			if (emotion < 2)
+			{
+				emotion = 2;
+			}
+			else if (emotion > 5)
+			{
+				emotion = 5;
+			}
+		}
 
 		/* AnyKeywordMatch method
 		 * 
