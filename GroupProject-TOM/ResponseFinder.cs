@@ -117,9 +117,10 @@ namespace GroupProject_TOM
 						int i = 0;
 						while(response == null && i < 20)
 						{
+							Random rand = new Random();
 							try
 							{
-								int responseID = i;
+								int responseID = rand.Next(2,8);
 								if (responseID != lastResponseID)
 								{
 									response = responses.payload.category0.emotion0[matchedArrayIndex][responseID];
