@@ -48,7 +48,7 @@ namespace GroupProject_TOM
 				input = input.ToLower();
 				if(input[input.Length - 1] == '?' || input[input.Length - 1] == '.' || input[input.Length - 1] == '!')
 				{
-					input = input.Substring(0, input.Length - 2);
+					input = input.Substring(0, input.Length - 1);
 				}
 				int matchedArrayIndex = 0;
 				int highScore = 0;

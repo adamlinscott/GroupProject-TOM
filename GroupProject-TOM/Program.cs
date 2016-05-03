@@ -92,7 +92,7 @@ namespace GroupProject_TOM
                         }
                     }                                                            
                     AiText();
-                    FormatInput(Current); 
+                   
                     UserInput.Add(Current);                                        
                     string delay = responses.ToString();
                     DelayOutput(delay);            
@@ -179,19 +179,6 @@ namespace GroupProject_TOM
         }
 
 
-        static void FormatInput(string Input) //Formats user input
-        {
-            string UserString = Input;
-            string[] elements = new string[28] { "!", "£", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", 
-                                               "|", "<", ">", "?", "/", "[", "]", "{", "}", ";", ":", "@", "'", "#", "~"};
-
-            for (int i = 0; i < elements.Length; i++)
-            {
-                Input = Input.Replace(elements[i], "");
-            }
-
-            return;
-        }
 
         static void DelayOutput(string Output) //Delays outputs based on the number of chars in string
         {                                      //Also adds "Tom is typing..." and removes it using ClearTyping()
