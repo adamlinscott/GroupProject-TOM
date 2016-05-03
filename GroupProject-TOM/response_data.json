@@ -1,4 +1,4 @@
-{
+﻿{
 	"response": "ok",
 	"payload": {
 		"category0": {
@@ -30,17 +30,10 @@
 				[
 					"my pc runs rust can it run gmod",
                     			"0",
-					"Not sure. If you have space on your PC, then maybe",
+					"Not sure. If you have space on your PC, then maybe.",
 					"Possibly.",
 					"Yes, Rust is slightly more hardware demanding than Garrys Mod so you shouldn't have any problems",
 					"Yeah definitely! :D Just make sure you have enough storage space for it!"
-				],
-				[
-					"what is the meaning of life",
-					"0",
-					"42?",
-					"Always a difficult question...",
-					"I don't know, probably something to do with happiness."
 				],
 				[
 					"my pc runs gmod can it run rust",
@@ -165,16 +158,16 @@
 				[
 					"how do i play rust",
                     			"0",
-					"Just download the game into your Steam Library and then just run it.",
-					"Double click on it in your Steam library.",
+					"Use the Steam client to install and play it",
+					"You can play Rust using Steam",
 					"If you have installed the Steam Client and Rust, then all you have to do is go to your library tab and just double click on the game from there.",
 					"Install the Steam Client and Rust, then it should appear in your Steam games library! :) Then, all you have to do is double click on in your library! :D"
 				],
 				[
 					"how do i play gmod",
                     			"0",
-					"All you have you to do is download Gmod into your Steam Library and then it should run!",
-					"Double click on Gmod on the Library tab on your Steam Client.",
+					"Use the Steam client to install and play it",
+					"You can play Gmod using Steam",
 					"Install the Steam Client and Gmod first. Once this is done, you should be able to launch Gmod from your library tab on the Steam Client by double clicking on it.",
 					"It's easy, haha! Just install the Steam Client and Gmod first. Then, if you go to the library tab on your Steam Client you should be able to see Gmod! And voila."
 				],
@@ -191,7 +184,7 @@
                     			"0",
 					"If you got Gmod yourself, you would be able to find out...",
 					"Prop Hunt.",
-					"The game mode, Prop Hunt, always seems to gain a fair amount of attraction.",
+					"Probably Prop Hunt, that mode is crazy sometimes haha!",
 					"I'd have to say the Prop Hunt mode is always pretty popular! I guess playing hide and seek never gets old, haha!"
 				],
 				[
@@ -443,7 +436,7 @@
 					"Excellent thanks! :) So, what can I do for ya?"
 				],
 				[
-					"what's up",
+					"whats up",
                     			"0",
 					"Not much. So what can I do for you?",
 					"Nm. How can I help?",
@@ -507,6 +500,14 @@
 					"Haha, good choice! :) Here you go: http://store.steampowered.com/app/252490/"
 				],
 				[
+					"where can i purchase rust",
+                    			"0",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"You can buy Rust on Steam here: http://store.steampowered.com/app/252490/",
+					"Cool! You can get Rust here: http://store.steampowered.com/app/252490/",
+					"Haha, good choice! :) Here you go: http://store.steampowered.com/app/252490/"
+				],
+				[
 					"where can i buy garrys mod",
                     			"0",
 					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
@@ -515,6 +516,22 @@
 					"Excellent choice, good luck! Haha! :) Download it from here: http://store.steampowered.com/app/4000/"
 				],
 				[
+					"where can i purchase garrys mod",
+                    			"0",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"You can buy Garrys Mod on Steam here: http://store.steampowered.com/app/4000/",
+					"No problem! Get Garry's Mod here: http://store.steampowered.com/app/4000/",
+					"Excellent choice, good luck! Haha! :) Download it from here: http://store.steampowered.com/app/4000/"
+				],
+				[
+					"are you planning on releasing any new games",
+                    			"0",
+					"I can't talk about new releases.",
+					";)",
+					"I can't discuss that with a client, sorry.",
+					"Any new releases are hush-hush, sorry!"
+				],
+								[
 					"are facepunch studios planning on releasing any new games",
                     			"0",
 					"I can't talk about new releases.",
@@ -531,7 +548,23 @@
 					"Email your CV to jobs@facepunchstudios.com and they'll get back to you! Good luck! :)"
 				],
 				[
+					"do you have any job vacancies",
+                    			"0",
+					"Just email jobs@facepunchstudios.com. They should get back to you!",
+					"You can email jobs@facepunchstudios.com about any vacancies we have.",
+					"You can email jobs@facepunchstudios.com about any vacancies we have.",
+					"Email your CV to jobs@facepunchstudios.com and they'll get back to you! Good luck! :)"
+				],
+				[
 					"where is facepunch studios located",
+                    			"0",
+					"Walsall, England.",
+					"England.",
+					"We are based in Walsall, England! :)",
+					"Well aren't you nosey ;) We're based in Walsall, England!"
+				],
+				[
+					"where are you located",
                     			"0",
 					"Walsall, England.",
 					"England.",
@@ -550,7 +583,7 @@
 					"do you play garrys mod or rust",
                     			"0",
 					"Which do you play?",
-					"I play both of them! :)",
+					"Both of them.",
 					"I play both of them :) What about you?",
 					"I play both Garry's Mod and Rust! I played Rust last night but I moreorless died instantly... :("
 				],
@@ -589,7 +622,7 @@
 				[
 					"how do i get wood",
                     			"0",
-					"Just hit any tree using either a stone or crafted hatchet!!!",
+					"Just hit any tree using either a stone or crafted hatchet.",
 					"Hit a tree using a stone or a crafted hatchet",
 					"To get wood, cut tree's using either your stone or a crafted hatchet! :)",
 					"Piece of cake. All you have to do is just hit the tree with either a stone or a crafted hatchet! And that's it! :D"
@@ -597,7 +630,7 @@
 				[
 					"how do i get stone",
                     			"0",
-					"Just hit any rock using either a stone or crafted pick!!!",
+					"Just hit any rock using either a stone or crafted pick.",
 					"Hit a rock using a stone or a crafted pick",
 					"To get stone, mine rocks using either your stone or a crafted pick.",
 					"Easy. All you have to do is to just mine a rock by hitting it with either a stone or a crafted pick! And that's it! :D"
@@ -605,8 +638,8 @@
 				[
 					"how do i get sulphur",
                     			"0",
-					"Just mine the rocks that have a green layer on them!",
-					"Mine any rocks that appear to have a greenish layer on them, or steal them!",
+					"Just mine the rocks that have a green layer on them.",
+					"Mine any rocks that appear to have a greenish layer on them.  Or steal them!",
 					"To gather sulphur, mine the rocks that look like they have a greenish layer over them. You can also collect sulphur in chunks of 50 from the ground.... or steal it from other players ;)",
 					"Oh, if it was me I would just steal them from another player, haha! ;) But, you get it from rocks which have a greenish layer on them."
 				],
@@ -777,7 +810,7 @@
                     			"0",
 					"I don't want to start an argument here...",
 					"I don't really have one! Anything else I can help you with?",
-					"That's all down to opinion! My favourite weapon is the Marksmans Rifle :) what's yours? ",
+					"That's all down to opinion! My favourite weapon is the Marksmans Rifle :) What's yours?",
 					"Haha, I'd have to say the Marksman Rifle personally! :P You?"
 				],
 				[
@@ -949,77 +982,253 @@
 					"Hmm. Personally, I would indeed recommend installing Rust onto an SSD if you can! Only because source engine games tend to benefit more from being put onto an SSD, such as lower loading times. So yeah!"
 				],
 		                [
-		                    "fine",
-		                    "0",
-		                    "Okay.",
-		                    "Good.",
-		                    "Good.",
-		                    "Great!"
+					"thanks for your help",
+					"0",
+					"That's okay. Happy gaming.",
+					"That's okay. Happy gaming.",
+					"Glad I could help :). Happy gaming.",
+					"Glad I could help! Have fun :D"
 		                ],
 		                [
-		                    "thanks for your help",
-		                    "0",
-		                    "That's okay. Happy gaming.",
-		                    "That's okay. Happy gaming.",
-		                    "Glad I could help :). Happy gaming.",
-		                    "Glad I could help! Have fun :D"
+					"my problem is solved",
+					"0",
+					"Glad I could help.",
+					"Glad I could help.",
+					"Glad I could help :). Happy gaming.",
+					"Glad I could help! Have fun :D"
 		                ],
 		                [
-		                    "my problem is solved",
-		                    "0",
-		                    "Glad I could help.",
-		                    "Glad I could help.",
-		                    "Glad I could help :). Happy gaming.",
-		                    "Glad I could help! Have fun :D"
+					"do a barrel roll",
+					"0",
+					"How do you expect me to do that?",
+					"I'm barrel-rolling right now.",
+					"I wish I could haha",
+					"Wouldn't it be great if I could?!"
+		                ],
+				[
+					"can you help me",
+					"0",
+					"With what?",
+					"Sure. What do you need?",
+					"Sure, what do you need?",
+					"Of course! How can I help? :D"
 		                ],
 		                [
-		                    "do a barrel roll",
-		                    "0",
-		                    "How do you expect me to do that?",
-		                    "I'm barrel-rolling right now.",
-		                    "I wish I could haha",
-		                    "Wouldn't it be great if I could?!"
-		                ],
-					    [
-		                    "can you help me",
-		                    "0",
-		                    "With what?",
-		                    "Sure. What do you need?",
-		                    "Sure, what do you need?",
-		                    "Of course! How can I help? :D"
+					"i need help",
+					"0",
+					"With what?",
+					"Sure. What do you need?",
+					"Sure, what do you need?",
+					"Of course! How can I help? :D"
 		                ],
 		                [
-		                    "i need help",
-		                    "0",
-		                    "With what?",
-		                    "Sure. What do you need?",
-		                    "Sure, what do you need?",
-		                    "Of course! How can I help? :D"
+					"i hate you",
+					"0",
+					"That's a shame, really. /s",
+					"*facepalm*",
+					"That's not good.",
+					"I know you love me really ;)."
 		                ],
 		                [
-		                    "i hate you",
-		                    "0",
-		                    "That's a shame, really. /s",
-		                    "*facepalm*",
-		                    "That's not good.",
-		                    "I know you love me really ;)."
+					"im fine",
+					"0",
+					"Great.",
+					"Great.",
+					"That's good. What can I help you with?",
+					"That's great to hear! How can I help?"
 		                ],
 		                [
-		                    "im fine",
-		                    "0",
-		                    "Great.",
-		                    "Great.",
-		                    "That's good. What can I help you with?",
-		                    "That's great to hear! How can I help?"
+					"fine",
+					"0",
+					"Okay.",
+					"Okay.",
+					"Fine.",
+					":D"
 		                ],
-		                [
-		                    "fine",
-		                    "0",
-		                    "Okay.",
-		                    "Okay.",
-		                    "Fine.",
-		                    ":D"
-		                ]
+				[
+					"do you have any advice",
+					"0",
+					"Nope. You need to be more specific.",
+					"Please be more specific.",
+					"Hmm, you're going to have to be more specific! :P",
+					"Exercise more regularly? :P Haha sorry, you're going to have to be more specific!"
+				],
+				[
+					"what advice can you give me",
+					"0",
+					"No. You need to be more specific.",
+					"Please be more specific.",
+					"Sorry, what do you want advice on?",
+					"Sorry, you're going to have to be more specific! :P"
+				],
+				[
+					"what do you do",
+					"0",
+					"My job is to help with any problems you may have with Gmod and Rust.",
+					"I'm here to give you advice for Gmod and Rust.",
+					"I'm here to help you! Let me know if there's anything bothering you regarding Rust and Gmod! :)",
+					"I will happily help you with any questions you may have about Rust and Gmod! :D Ask away!!!"
+				],
+				[
+					"nice",
+					"0",
+					"Cool.",
+					"Excellent.",
+					":)",
+					":D"
+				],
+				[
+					"great",
+					"0",
+					"Cool.",
+					"Excellent.",
+					":)",
+					":D"
+				],
+				[
+					"thanks tom",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"thank you",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"cheers tom",
+					"0",
+					"No problem. Is that all?",
+					"No worries.",
+					"No problemo, let me know if I can assist you further! :D",
+					"Happy to help! :)"
+				],
+				[
+					"it works now thanks",
+					"0",
+					"Cool. Any other problems?",
+					"Excellent.",
+					"Awesome, have fun! :) If you have any further issues, let me know!",
+					"Nice one! I'm happy to help anytime! :D"
+				],
+				[
+					"bye tom",
+					"0",
+					"Bye.",
+					"Cya.",
+					"Ok. Have fun gaming!",
+					"Have a nice day! Bye! :)"
+				],
+				[
+					"im leaving tom",
+					"0",
+					"Bye.",
+					"Cya.",
+					"Ok. Have fun gaming!",
+					"Have a nice day! Bye! :)"
+				],
+				[
+					"i think i should go",
+					"0",
+					"Goodbye.",
+					"Adios.",
+					"No worries, have a nice day!",
+					"Ok! Have a nice day! :)"
+				],
+				[
+					"i need to go",
+					"0",
+					"Bye.",
+					"Adios.",
+					"Have a nice day!",
+					"Take care! :P"
+				],
+				[
+					"i need to leave",
+					"0",
+					"Goodbye.",
+					"Bye.",
+					"Later!",
+					"Fair enough. Have fun! :)"
+				],
+				[
+					"what time is it",
+					"0",
+					"Time for you to ask me a different question.",
+					"Time for a different question.",
+					"I believe it is time for another question, haha! :)",
+					"Time for more questions, haha! :P"
+				],
+				[
+					"can you tell me what time it is",
+					"0",
+					"Time for you to ask me a different question.",
+					"Time for a different question.",
+					"I believe it is time for another question, haha! :)",
+					"Time for more questions, haha! :P"
+				],
+				[
+					"how old are you",
+					"0",
+					"I will only answer questions about Rust and Gmod.",
+					"Irrelevant.",
+					"I can't tell you that!",
+					"Sorry, I can't say what my age is :("
+				],
+				[
+					"my name is [name]",
+					"0",
+					"Cool.",
+					"Nice.",
+					"Nice to meet you!",
+					"Ah cool, nice to meet you! :) Can I help you with anything? "
+				],
+				[
+					"what is the weather like",
+					"0",
+					"The weather isn't too bad today.",
+					"Not too bad.",
+					"It's not too bad today haha. How can I help?",
+					"It's not bad today surprisingly, haha! How can I help you? :)"
+				],
+				[
+					"how is the weather",
+					"0",
+					"The weather isn't too bad today.",
+					"Not too bad.",
+					"It's not too bad today haha. How can I help?",
+					"It's not bad today surprisingly, haha! How can I help you? :)"
+				],
+				[
+					"what do you do in your free time",
+					"0",
+					"Destroy and survive in Rust.",
+					"Play Rust.",
+					"Hmm, recently I've just been playing Rust, haha!",
+					"Honestly...I've been obsessed with playing Rust recently, so I've just been playing that constantly. Haha! XD"
+				],
+				[
+					"what do you do in your spare time",
+					"0",
+					"Destroy and survive in Rust.",
+					"Play Rust.",
+					"Hmm, recently I've just been playing Rust, haha!",
+					"Honestly...I've been obsessed with playing Rust recently, so I've just been playing that constantly. Haha! XD"
+				],
+				[
+					"what is steam",
+					"0",
+					"Steam is a service which provides a catalog of countless amounts of different PC games.",
+					"Steam is just software that you need for purchasing and downloading Rust and Gmod.",
+					"Steam is basically a digital catalog of countless amounts of different PC games! :D You need it so you can get Rust and Gmod!",
+					"Steam is an awesome digital catalog of many amazing, different PC games! :)"
+				]
 			]
 		}
 	}
