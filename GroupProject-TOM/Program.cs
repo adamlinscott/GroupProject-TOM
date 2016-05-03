@@ -69,7 +69,7 @@ namespace GroupProject_TOM
         {
             List<string> UserInput = new List<string>();
             ResponseFinder responses = new ResponseFinder(200); //threshold
-            string[] gbykeywords = new string[] {"goodbye", "bye", "cya", "farewell", "fuck off", "goodnight", "take care", "have a good one", "Peace", "Adios", "Ciao", "cya later", "got to go"};
+            string[] gbykeywords = new string[] {"goodbye", "bye", "cya", "farewell", "fuck off", "goodnight", "take care", "have a good one", "Peace", "Adios", "Ciao", "cya later", "got to go", "no thanks", "no thank you", "see you later"};
             bool MainLoop = true;
             if (MainLoop == true)
             {
@@ -84,7 +84,7 @@ namespace GroupProject_TOM
                 }
                 else
                 {
-                    for (int i = 0; i < 11; i++ ) //change this to only check the last 15 characters of the Current string.
+                    for (int i = 0; i < gbykeywords.Length; i++ ) //change this to only check the last 15 characters of the Current string.
                     {
                         if (Current.Contains(gbykeywords[i]))
                         {
@@ -95,37 +95,39 @@ namespace GroupProject_TOM
                     FormatInput(Current); 
                     UserInput.Add(Current);                                        
                     string delay = responses.ToString();
-                    DelayOutput(delay);
-                    Console.WriteLine("Tom: {0}", responses.GetResponse(Current)); 
-                    Chat();                    
+                    DelayOutput(delay);            
 					string thisResponse = responses.GetResponse(Current);
 					string[] viableResponse = { "Sorry, I don't quite understand. Can you please re-word that?", "Sorry, I still don't understand.", "Sorry, I'm not sure how to answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?"};
 					string[] noResponse = { "Sorry, I'm not sure i can help with that. Is there anything else I can help with?", "Sorry, I can't answer that.  Can i help you with anything else?", "Sorry, I can't answer that. Please email contact@facepunchstudios.com for further help. Is there anything else?" };
-					switch (thisResponse)
+					if (thisResponse == "NO_VIABLE_RESPONSE")
 					{
-						case "NO_VIABLE_RESPONSE":
-							thisResponse = viableResponse[noResponseCounter];
-							noResponseCounter++;
-							if (noResponseCounter >= 3)
-							{
-								noResponseCounter = 0;
-							}
-							break;
-						case "NO_RESPONSE_IN_JSON":
-							thisResponse = noResponse[noResponseCounter];
-							noResponseCounter++;
-							if (noResponseCounter >= 3)
-							{
-								noResponseCounter = 0;
-							}
-							break;
-						case "NO_INPUT":
-							break;
-						default:
-							break;
+						thisResponse = viableResponse[noResponseCounter];
+						noResponseCounter++;
+						if (noResponseCounter >= 3)
+						{
+							noResponseCounter = 0;
+						}
 					}
-					Console.WriteLine(thisResponse);
-                    Chat();
+					else if(thisResponse == "NO_RESPONSE_IN_JSON")
+					{
+						thisResponse = noResponse[noResponseCounter];
+						noResponseCounter++;
+						if (noResponseCounter >= 3)
+						{
+							noResponseCounter = 0;
+						}
+					}
+					else if (thisResponse == "NO_INPUT")
+					{
+
+					}
+					else
+					{
+						noResponseCounter = 0;
+					}
+
+					Console.WriteLine("Tom: {0}", thisResponse);
+					Chat();
                     //return;
                 }
             }
