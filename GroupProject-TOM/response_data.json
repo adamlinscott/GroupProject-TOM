@@ -17,7 +17,7 @@
 					"Of course I am.",
 					"Yes.",
 					"Yes, is there anything else I can help you with?",
-					"Last time I checked...yes, haha! ;))"
+					"Last time I checked...yes, haha! ;)"
 				],
 				[					
 					"can my laptop run rust",
@@ -445,7 +445,7 @@
 				],
 				[
 					"how are you",
-                    "0",
+                			    "0",
 					"Good. Can I help you?",
 					"Not bad. :)",
 					"Good thank you, yourself? :D",
@@ -547,7 +547,7 @@
 					"I can't discuss that with a client, sorry.",
 					"Any new releases are hush-hush, sorry!"
 				],
-								[
+				[
 					"are facepunch studios planning on releasing any new games",
                     			"0",
 					"I can't talk about new releases.",
@@ -725,7 +725,7 @@
 					"What is your complaint about? Is there anything I can do to assist you?"
 				],
 				[
-					"i want a refund on [game]",
+					"i want a refund on a game",
                     			"0",
 					"I can't help you, refunds are not my department!",
 					"Sorry, you need to contact the billing department instead about that.",
@@ -766,7 +766,7 @@
 					
 				],
 				[
-					"have you completed [game]",
+					"have you completed game",
                     			"0",
 					"I can only give my professional opinion on issues relating to Rust and Garrys Mod, if you have a problem with another game you will need to contact the relevant department!",
 					"I'm only knowledgeable about FacePunch Studios.",
@@ -806,7 +806,7 @@
 					"It's simple! :) If you can get some wood take make some paper, all it is is 1 paper in the crafting menu! Haha! :P"
 				],
 				[
-					"how do i access the [crafting/blueprints] menu",
+					"how do i access the crafting blueprints menu",
                     			"0",
 					"TAB!",
 					"Press TAB :/",
@@ -838,7 +838,7 @@
 					"Garry's Mod is a sandbox game, which means the objective can be whatever you want really, haha! Or you could opt to play user content! :)"
 				],
 				[
-					"how do i get [props/items] in gmod",
+					"how do i get props items in gmod",
                 			"0",
 					"The props/items are taken from other games that you own.",
 					"Garry's Mods borrows prop/item assets from other games that you own.",
@@ -862,7 +862,7 @@
 					"Well aren't you curious? :P Garry's Mod will just search through your Steam Games folder and add any compatible games! That's all, really! :)"
 				],
 				[
-					"i have [game] but my props aren't appearing in gmod how can i find them",
+					"i have but my props aren't appearing in gmod how can i find them",
                     			"0",
 					"Change the folder search perimeters to search in a different folder.",
 					"You could try changing how Garry's Mod searches your Steam Games folder to the game folder that you're wanting?",
@@ -894,7 +894,7 @@
 					"Rotate? WASD THAT???...sorry, I'm terrible, haha! But yeah, use the WASD keys while holding the item, and it should rotate! :)"
 				],
 				[
-					"how do i snap a [prop/item] to position",
+					"how do i snap a prop item to position",
                     			"0",
 					"Shift and E will do the job. That will snap a prop into position.",
 					"Use Shift and E! :)",
@@ -1198,7 +1198,7 @@
 					"Sorry, I can't say what my age is :("
 				],
 				[
-					"my name is [name]",
+					"my name is ",
 					"0",
 					"Cool.",
 					"Nice.",
@@ -1316,8 +1316,104 @@
                     "Wow, am I famous?",
                     "Hopefully I'm doing a good job!",
                     "Famous actor right here."
-                ]
+                ],
+                [
+        		"what is the meaning of life",
+        		"0",
+			"42",
+			"42",
+			"Obviously has to be 42!",
+			"Haha, 42 obviously! ;)"
+			],
+			[
+			"what is rust",
+			"0",
+			"Rust is a survival game where you play with other players online and attempt to survive with minimal resources.",
+			"Rust is a massive multiplayer game where you and other players are attempting to survive through the awful conditions, where humanity has been reduced to cavemen.",
+			"Rust is an awesome survival multiplayer game where you attempt to survive with other players! Think you've got what it takes? ;)",
+			"Well basically, Rust is an awesome multiplayer survival game, where you will encounter minimal resources and awful conditions! Good luck, haha! :)"
+			],
+			[
+			"what is gmod",
+			"0",
+			"Garry's Mod is a Sandbox Game based around the idea of building. Unlike most other games there aren't any objectives - you can't lose and you definitely can't win.",
+			"Garry's Mod is a Sandbox Game based around the idea of building.",
+			"Garry's Mod is basically a sandbox game where you can...build stuff! There's a lot of freedom with it, so build whatever you want! :D",
+			"Garry's Mod is a Sandbox Game based around the idea of building. It's impossible to lose and great fun, haha!"
+			],
+			[
+			"i have a bad laptop, can i play gmod",
+			"0",
+			"If your laptop can meet the minimum requirements, then maybe. OS: Windows 7/8/8.1/10; Processor: 2.5GHz; Memory: 8 GB; Graphics: 1 GB dedicated VRAM; Storage: 10 GB.",
+			"Hmm, does your laptop meet these requirements? OS: Windows 7/8/8.1/10; Processor: 2.5GHz; Memory: 8 GB; Graphics: 1 GB dedicated VRAM; Storage: 10 GB.",
+			"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible",
+			"That depends on how bad your laptop is :/ We suggest these specifications as a minimum: OS: Windows 7/8/8.1/10; Processor: 2.5GHz; Memory: 8 GB; Graphics: 1 GB dedicated VRAM; Storage: 10 GB."
+			],
+			[
+			"i have a bad laptop, can i play rust",
+			"0",
+			"Possibly, it depends on how bad it is. Does it meet these specifications at least? OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space",
+			"Hmm, does your laptop meet these requirements? OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
+			"Well, if you want the bare minimum specs for Rust then here you go... : OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space.",
+			"Not gonna lie, it really depends on how bad it is. D: Does your laptop at least meet these specifications? OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space."
+			],
+			[
+			"what is day is it today",
+			"0",
+			"The day you ask me a different question? :/",
+			"Today? :S Sorry I don't see how that is relevant.",
+			"Absolutely no idea what day it is today.  The day to purchase Rust? :/",
+			"lol. Not sure, is today the day that you're going to buy Rust? ;) Haha!"
+			],
+			[
+			"should i get gmod or rust",
+			"0",
+			"That's all down to opinion. They are both great games.",
+			"I can't decide that for you! :/",
+			"Hmm, that's all up to you! ;) I can't decide for you!",
+			"Haha, now that's up to you, I can't decide that for you! ;)"
+			],
+			[
+			"good afternoon",
+			"0",
+			"Afternoon.",
+			"Hey.",
+			"Afternoon!",
+			"Good afternoon! :D"
+			],
+			[
+			"good morning",
+			"0",
+			"Morning.",
+			"Hey.",
+			"Morning!",
+			"Good morning! :D"
+			],
+			[
+			"good evening",
+			"0",
+			"Evening.",
+			"Hey.",
+			"Evening!",
+			"Good evening! :D"
+			],
+			[
+			"can you help me",
+			"0",
+			"lol. Nope. You need to be more specific.",
+			"Please be more specific.",
+			"lol, you're going to have to be more specific! :P",
+			"D: Sorry! You're going to have to be more specific!"
+			],
+			[
+			"are you a robot",
+			"0",
+			"Excuse me?",
+			"How rude.",
+			"My name is Tom...? :/",
+			"lol. No not today, my name is Tom! :D Do you need any help?"
 			]
+		]
 		}
 	}
 }
