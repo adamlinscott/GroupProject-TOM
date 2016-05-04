@@ -179,8 +179,24 @@
 					"Currently, the most popular gamemode in rust seems to be the Battle Royale game mode.",
 					"Hmm, i'd have to say the Battle Royale game mode! It was inspired by Arma 3 originally and seems to have grown in popularity as of late, haha! XD"
 				],
+                [
+					"what is the most popular game mode in rust",
+                    			"0",
+					"Perhaps you should play Rust yourself to find out.",
+					"The Battle Royale game mode seems pretty popular.",
+					"Currently, the most popular gamemode in rust seems to be the Battle Royale game mode.",
+					"Hmm, i'd have to say the Battle Royale game mode! It was inspired by Arma 3 originally and seems to have grown in popularity as of late, haha! XD"
+				],
 				[
 					"what is the most popular gamemode in gmod",
+                    			"0",
+					"If you got Gmod yourself, you would be able to find out...",
+					"Prop Hunt.",
+					"Probably Prop Hunt, that mode is crazy sometimes haha!",
+					"I'd have to say the Prop Hunt mode is always pretty popular! I guess playing hide and seek never gets old, haha!"
+				],
+                [
+					"what is the most popular game mode in gmod",
                     			"0",
 					"If you got Gmod yourself, you would be able to find out...",
 					"Prop Hunt.",
@@ -413,15 +429,15 @@
 				],
 				[
 					"hello",
-                    			"0",
+                    "0",
 					"Yes?",
 					"How can I help?",
 					"Hello! I'm Tom! How can I help? :D",
 					"Hey there, I'm Tom! :) How are you?"
 				],
-                		[
+                [
 					"hey",
-                    			"0",
+                    "0",
 					"Yes?",
 					"How can I help?",
 					"Hello! I'm Tom! How can I help? :D",
@@ -429,7 +445,7 @@
 				],
 				[
 					"how are you",
-                    			"0",
+                    "0",
 					"Good. Can I help you?",
 					"Not bad. :)",
 					"Good thank you, yourself? :D",
@@ -1228,7 +1244,79 @@
 					"Steam is just software that you need for purchasing and downloading Rust and Gmod.",
 					"Steam is basically a digital catalog of countless amounts of different PC games! :D You need it so you can get Rust and Gmod!",
 					"Steam is an awesome digital catalog of many amazing, different PC games! :)"
-				]
+				],
+                [
+                    "i like you",
+                    "0",
+                    "Thanks. I like you too!",
+                    "Thanks, the feeling is mutual!",
+                    "Thanks!",
+                    "Nice!"
+                ],
+                [
+                    "i love you",
+                    "0",
+                    "Okay then.",
+                    "Bit of an odd thing to say...",
+                    "Okay.",
+                    "Creepy."
+                ],
+                [
+                    "what is your steam username",
+                    "0",
+                    "I can't tell you that, sorry!",
+                    "I'm not allowed to play with clients, sorry.",
+                    "I can't divulge that, sadly.",
+                    "I'm not allowed to tell you!"
+                ],
+                [
+                    "what is your address",
+                    "0",
+                    "I can't tell you that, sorry!",
+                    "I'm not going to tell you that.",
+                    "I won't give you that information",
+                    "What a creepy thing to ask."
+                ],
+                [
+                    "what is your email address",
+                    "0",
+                    "I can't tell you that, sorry!",
+                    "I'm not going to tell you that.",
+                    "I won't give you that information",
+                    "What a creepy thing to ask."
+                ],
+                [
+                    "what are you doing",
+                    "0",
+                    "Not much.",
+                    "Not much, yourself?",
+                    "Helping you!",
+                    "Nothing lol."
+                ],
+                [
+                    "are you a bot",
+                    "0",
+                    "I'm offended by the insinuation.",
+                    "How offensive.",
+                    "What have you been smoking?",
+                    "Don't be silly!"
+                ],
+                [
+                    "fine",
+                    "0",
+                    ":) How can I help?",
+                    "What can I help you with?",
+                    "Ask me anything about Facepunch Studios.",
+                    "Ask me anything about Facepunch Studios."
+                ],
+                [
+                    "you are in a demonstration",
+                    "0",
+                    "I'm blushing!",
+                    "Wow, am I famous?",
+                    "Hopefully I'm doing a good job!",
+                    "Famous actor right here."
+                ]
 			]
 		}
 	}
