@@ -6,7 +6,7 @@
 				[
 					"can my laptop run gmod",
                     			"0",
-					"You SHOULD at least have these specs for Garry's Mod: OS: Windows 7/8/8.1/10; Processor: 2.5GHz; Memory: 8 GB; Graphics: 1 GB dedicated VRAM; Storage: 10 GB.",
+					"You SHOULD at least have these specs for Garry's Mod: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible",
 					"If you can run Rust on your PC, then you should be able to play Garry's Mod.",
 					"Garrys Mod requires these minimum PC specifications: OS: Windows Vista/XP; Processor: 1.8 GHz Processor; Memory: 2 GB RAM; Graphics: DirectX 9 level Graphics Card (Requires support for SSE); Network: Broadband internet connection; Storage: 5 GB available space; Sound Card: DirectX 9 compatible",
 					"That depends! :o If your laptop could handle rust then it should be no problem! :)"
@@ -24,8 +24,8 @@
                     			"0",
 					"Well, if you want the bare minimum specs for Rust then here you go... : OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space",
 					"Maybe. The specs for rust are on our website.",
-					"We recommend these settings for Rust: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space",
-					"Hmm. Well, it would depend on how good your laptop is. :S But, we do recommend these settings: OS: Windows 10 64bit; Processor: 3 GHz; Memory: 16 GB RAM; Graphics: NVIDIA GTX 980; Storage: 10 GB available space"
+					"We suggest these settings for Rust:  OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space",
+					"Hmm. Well, it would depend on how good your laptop is. :S But, we do suggest these settings:  OS: Windows 7 64bit; Processor: 2 GHz; Memory: 8 GB RAM; DirectX: Version 9.0; Storage: 8 GB available space"
 				],
 				[
 					"my pc runs rust can it run gmod",
