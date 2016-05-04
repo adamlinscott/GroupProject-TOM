@@ -1405,14 +1405,22 @@
 			"lol, you're going to have to be more specific! :P",
 			"D: Sorry! You're going to have to be more specific!"
 			],
-			[
-			"are you a robot",
-			"0",
-			"Excuse me?",
-			"How rude.",
-			"My name is Tom...? :/",
-			"lol. No not today, my name is Tom! :D Do you need any help?"
-			]
+				[
+					"are you a robot",
+					"0",
+					"Excuse me?",
+					"How rude.",
+					"My name is Tom...? :/",
+					"lol. No not today, my name is Tom! :D Do you need any help?"
+				],
+				[
+					"I m good thanks",
+					"0",
+					"that's great, how can i help?",
+					"good",
+					"Anything i can help with?"
+				]
+
 		]
 		}
 	}
